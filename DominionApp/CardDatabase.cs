@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.IO;
 using System.Drawing;
+using System.Windows.Forms;
 
 
 namespace BaseCodeApp
@@ -17,7 +18,16 @@ namespace BaseCodeApp
         public void LoadBitmaps()
         {
             String filename = "data/" + set + "/" + name.Replace(" ","").Replace("'","") + ".gif";
-            fullImage = new Bitmap(filename);
+            try
+            {
+                fullImage = new Bitmap(filename);
+            }
+            catch
+            {
+                MessageBox.Show("Failed to find one of the card images (" + filename + "). Cards are not checked into the Git repository; you will need to download Provincial.zip from http://graphics.stanford.edu/~mdfisher/DominionAI.html.");
+                Environment.Exit(0);
+            }
+
             croppedImage = new Bitmap(Constants.croppedWidth, Constants.croppedHeight);
 
             Graphics g = Graphics.FromImage(croppedImage);

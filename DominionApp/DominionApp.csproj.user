@@ -2,9 +2,10 @@
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
     <EnableUnmanagedDebugging>true</EnableUnmanagedDebugging>
-    <StartWorkingDirectory>C:\Code\projects_v2\DominionAI\bin\</StartWorkingDirectory>
+    <StartWorkingDirectory>.\</StartWorkingDirectory>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
     <EnableUnmanagedDebugging>true</EnableUnmanagedDebugging>
+    <StartWorkingDirectory>.\</StartWorkingDirectory>
   </PropertyGroup>
 </Project>

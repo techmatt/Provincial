@@ -110,12 +110,12 @@
   </ImportGroup>
   <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
-    <Import Project="..\..\BaseSheet.props" />
+    <Import Project="..\BaseSheet.props" />
   </ImportGroup>
   <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
     <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
-    <Import Project="..\..\BaseSheet.props" />
-    <Import Project="..\..\ReleaseSheet.props" />
+    <Import Project="..\BaseSheet.props" />
+    <Import Project="..\ReleaseSheet.props" />
   </ImportGroup>
   <ImportGroup Condition="'$(Configuration)|$(Platform)'=='DominionExecutable|Win32'" Label="PropertySheets">
     <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
@@ -127,21 +127,21 @@
     <LinkIncremental>true</LinkIncremental>
     <TargetName>BaseCode</TargetName>
     <OutDir>$(SolutionDir)bin\</OutDir>
-    <IncludePath>.\;..\..\;..\;..\..\Include;C:\Program Files %28x86%29\Microsoft DirectX 9.0 SDK %28Summer 2004%29\Include;C:\Program Files %28x86%29\Windows Kits\8.0\Include;$(IncludePath)</IncludePath>
+    <IncludePath>.\;..\..\;..\;..\..\Include;C:\Program Files %28x86%29\Windows Kits\8.0\Include;$(IncludePath)</IncludePath>
     <LibraryPath>..\..\Libraries;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
     <LinkIncremental>false</LinkIncremental>
     <TargetName>BaseCode</TargetName>
     <OutDir>$(SolutionDir)bin\</OutDir>
-    <IncludePath>.\;..\..\;..\;..\..\Include;C:\Program Files %28x86%29\Microsoft DirectX 9.0 SDK %28Summer 2004%29\Include;C:\Program Files %28x86%29\Windows Kits\8.0\Include;$(IncludePath)</IncludePath>
+    <IncludePath>.\;..\..\;..\;..\..\Include;C:\Program Files %28x86%29\Windows Kits\8.0\Include;$(IncludePath)</IncludePath>
     <LibraryPath>..\..\Libraries;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='DominionExecutable|Win32'">
     <LinkIncremental>false</LinkIncremental>
     <TargetName>TestingGroundsInternal</TargetName>
     <OutDir>$(SolutionDir)bin\</OutDir>
-    <IncludePath>.\;..\..\;..\;..\..\Include;C:\Program Files %28x86%29\Microsoft DirectX 9.0 SDK %28Summer 2004%29\Include;C:\Program Files %28x86%29\Windows Kits\8.0\Include;$(IncludePath)</IncludePath>
+    <IncludePath>.\;..\..\;..\;..\..\Include;C:\Program Files %28x86%29\Windows Kits\8.0\Include;$(IncludePath)</IncludePath>
     <LibraryPath>..\..\Libraries;$(LibraryPath)</LibraryPath>
     <TargetExt>.exe</TargetExt>
   </PropertyGroup>
