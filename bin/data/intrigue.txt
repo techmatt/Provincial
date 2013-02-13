@@ -1,0 +1,26 @@
+name	cost	pcost	supply	type	actions	cards	buys	money	v tokens	v points	treasure
+courtyard	2	0	10	action	0	3	0	0	0	0	0
+pawn	2	0	10	action	0	0	0	0	0	0	0
+secret chamber	2	0	10	action reaction	0	0	0	0	0	0	0
+great hall	3	0	10	action victory	1	1	0	0	0	1	0
+masquerade	3	0	10	action	0	2	0	0	0	0	0
+shanty town	3	0	10	action	2	0	0	0	0	0	0
+steward	3	0	10	action	0	0	0	0	0	0	0
+swindler	3	0	10	action attack	0	0	0	2	0	0	0
+wishing well	3	0	10	action	1	1	0	0	0	0	0
+baron	4	0	10	action	0	0	1	0	0	0	0
+bridge	4	0	10	action	0	0	1	1	0	0	0
+conspirator	4	0	10	action	0	0	0	2	0	0	0
+coppersmith	4	0	10	action	0	0	0	0	0	0	0
+ironworks	4	0	10	action	0	0	0	0	0	0	0
+mining village	4	0	10	action	2	1	0	0	0	0	0
+scout	4	0	10	action	1	0	0	0	0	0	0
+duke	5	0	10	victory	0	0	0	0	0	0	0
+minion	5	0	10	action attack	1	0	0	0	0	0	0
+saboteur	5	0	10	action attack	0	0	0	0	0	0	0
+torturer	5	0	10	action attack	0	3	0	0	0	0	0
+trading post	5	0	10	action	0	0	0	0	0	0	0
+tribute	5	0	10	action	0	0	0	0	0	0	0
+upgrade	5	0	10	action	1	1	0	0	0	0	0
+harem	6	0	10	treasure victory	0	0	0	0	0	2	2
+nobles	6	0	10	action victory	0	0	0	0	0	2	0

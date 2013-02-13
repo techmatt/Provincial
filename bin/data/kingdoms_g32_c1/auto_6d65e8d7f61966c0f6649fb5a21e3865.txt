@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	chapel,pearl diver,ambassador,loan,warehouse,workshop,island,throne room,tribute,peddler@34Split@Prosperity
+
+Leaders:	5
+Leader 0:	4.115	e1-d2-p3-platinum@99|gold@6|gold@99|peddler@10|ambassador@1|loan@1|pearl diver@8|silver@99
+Leader 1:	4.025	e0-d2-p3-platinum@99|peddler@1|gold@99|peddler@10|chapel@1|pearl diver@3|peddler@1|silver@99|pearl diver@10
+Leader 2:	-1.145	e1-d2-p4-platinum@99|gold@99|peddler@10|chapel@1|pearl diver@3|warehouse@1|silver@99|pearl diver@10
+Leader 3:	-2.455	e0-d2-p2-platinum@99|gold@99|peddler@10|chapel@1|pearl diver@3|loan@1|silver@99|pearl diver@10
+Leader 4:	-8.44	e0-d1-p2-platinum@99|gold@99|peddler@10|ambassador@1|pearl diver@3|island@2|silver@99|pearl diver@10
+
+Tournament
+player	0	1	2	3	4
+0	-0.42	-22.6	-14.96	-10.8	64.82
+1	20.86	0.26	1.5	4.32	-10.58
+2	15.44	-5.84	-1.42	-1	-13.18
+3	12.18	-4.04	1.1	-0.64	-19.06
+4	-69.14	7.2	14.42	13.76	1.5

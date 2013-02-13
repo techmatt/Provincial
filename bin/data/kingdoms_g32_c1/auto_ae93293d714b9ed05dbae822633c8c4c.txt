@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	great hall,steward,caravan,ironworks,mining village,bazaar,city,ghost ship,goons,harem@34Split@NoProsperity
+
+Leaders:	5
+Leader 0:	7.965	e1-d2-p8-goons@2|bazaar@10|gold@99|caravan@3|steward@1|bazaar@1|caravan@1|silver@99
+Leader 1:	1.885	e1-d3-p8-ghost ship@1|bazaar@9|gold@99|caravan@2|steward@1|ironworks@1|caravan@8|silver@99
+Leader 2:	8.635	e2-d3-p8-ghost ship@1|bazaar@9|gold@99|caravan@2|steward@1|silver@1|caravan@1|silver@99
+Leader 3:	-5.25	e2-d2-p8-goons@2|bazaar@10|gold@99|caravan@2|steward@1|mining village@1|silver@99
+Leader 4:	-11.68	e2-d3-p8-ghost ship@1|bazaar@10|gold@99|ghost ship@2|caravan@2|steward@1|mining village@1|silver@99
+
+Tournament
+player	0	1	2	3	4
+0	-0.08	8.5	1.1	5.9	16.36
+1	-4.12	-0.16	-4.46	5.16	10.96
+2	-0.9	5.12	-0.22	11.5	18.82
+3	-9.24	-4.14	-9.78	-1.54	2.16
+4	-17.12	-11.62	-14.88	-3.1	-0.64

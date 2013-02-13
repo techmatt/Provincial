@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	pawn,bridge,coppersmith,island,scout,talisman,worker's village,market,merchant ship,royal seal@34Split@Prosperity
+
+Leaders:	5
+Leader 0:	4.65	e1-d4-p5-platinum@99|gold@1|merchant ship@1|gold@99|market@3|island@8|silver@99|pawn@6
+Leader 1:	0.845	e3-d4-p5-platinum@99|gold@1|merchant ship@1|gold@99|market@3|island@1|market@9|coppersmith@1|silver@99|pawn@3
+Leader 2:	1.18	e2-d4-p5-platinum@99|gold@99|merchant ship@3|market@1|island@3|coppersmith@1|silver@99|pawn@1
+Leader 3:	-3.62	e3-d4-p5-platinum@99|gold@2|merchant ship@1|gold@99|royal seal@1|merchant ship@1|island@8|merchant ship@1|silver@99|pawn@8
+Leader 4:	-2.97	e2-d4-p4-platinum@99|gold@99|market@10|island@8|merchant ship@1|silver@99|pawn@6
+
+Tournament
+player	0	1	2	3	4
+0	1.1	1.92	4.78	6.46	5.44
+1	-5.18	1.52	0.9	3.86	3.8
+2	-2.64	0.44	0.74	2.7	4.22
+3	-8.36	-1.6	-3.04	-0.16	-1.48
+4	-5.18	-1.72	-2.2	-2.78	-2.58

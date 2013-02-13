@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	cellar,pawn,shanty town,caravan,feast,ironworks,militia,mining village,navigator,smithy@34Split@Prosperity
+
+Leaders:	5
+Leader 0:	0.37	e2-d3-p5-platinum@99|gold@99|smithy@1|caravan@8|mining village@1|silver@1|shanty town@3|silver@99|cellar@10
+Leader 1:	1.38	e2-d4-p5-platinum@99|gold@99|militia@1|caravan@7|silver@1|shanty town@6|silver@99|cellar@1
+Leader 2:	-0.02	e1-d4-p5-platinum@99|gold@99|militia@1|caravan@9|smithy@1|silver@1|shanty town@6|silver@99|cellar@10
+Leader 3:	-0.935	e1-d3-p5-platinum@99|gold@99|militia@1|caravan@9|smithy@1|silver@1|shanty town@6|silver@99|cellar@10
+Leader 4:	-1.76	e1-d3-p5-platinum@99|gold@99|smithy@1|caravan@8|mining village@1|silver@1|shanty town@3|silver@99|cellar@10
+
+Tournament
+player	0	1	2	3	4
+0	-0.3	1.6	-0.8	0	0.68
+1	1.18	-1.78	1.08	1.24	2.02
+2	2.88	-0.52	-0.12	-1	-1.44
+3	-0.88	0.16	-2.24	0.7	-0.78
+4	-3.02	-0.5	0.3	-3.82	0.22

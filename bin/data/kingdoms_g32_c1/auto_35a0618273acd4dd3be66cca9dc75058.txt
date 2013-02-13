@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	pawn,shanty town,gardens,ironworks,saboteur,torturer,trading post,venture,goons,bank@25Split@NoProsperity
+
+Leaders:	5
+Leader 0:	40.88	e1-d4-p8-torturer@6|gold@99|shanty town@9|torturer@2|silver@99
+Leader 1:	38.34	e0-d3-p8-torturer@6|bank@1|gold@99|shanty town@9|torturer@1|silver@99
+Leader 2:	40.08	e1-d4-p8-torturer@6|gold@99|shanty town@9|venture@4|silver@99
+Leader 3:	-59.375	e3-d4-p8-goons@1|gold@99|venture@10|pawn@1|silver@99|pawn@10
+Leader 4:	-61.04	e3-d4-p8-goons@1|trading post@1|gold@99|venture@10|pawn@1|silver@99|pawn@10
+
+Tournament
+player	0	1	2	3	4
+0	1.78	3.84	0.46	77.46	81.76
+1	-5.96	0.02	-1.3	77.18	83.44
+2	-0.54	2.5	1.6	77.26	81.1
+3	-76.74	-80.02	-77.32	1.18	-3.42
+4	-81.44	-84.14	-83.76	5.18	-1.5

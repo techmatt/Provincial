@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	chapel,courtyard,chancellor,trade route,mining village,bazaar,explorer,library,trading post,expand@34Split@NoProsperity
+
+Leaders:	5
+Leader 0:	0.595	e2-d5-p8-gold@99|explorer@1|courtyard@1|bazaar@4|silver@99|courtyard@6
+Leader 1:	2.565	e2-d5-p8-gold@99|explorer@1|library@1|bazaar@6|silver@99|courtyard@6
+Leader 2:	-0.275	e2-d5-p8-gold@99|explorer@1|library@1|bazaar@4|courtyard@1|silver@99|courtyard@6
+Leader 3:	-0.82	e2-d5-p8-explorer@1|gold@99|library@2|silver@99|courtyard@1
+Leader 4:	0.44	e3-d5-p8-gold@99|explorer@1|library@1|courtyard@1|bazaar@4|silver@99|courtyard@6
+
+Tournament
+player	0	1	2	3	4
+0	0.18	0.42	-0.42	0.98	1.4
+1	1.7	0.3	2.14	3.26	3.16
+2	-0.48	-1.52	-1.22	1.84	-0.94
+3	-1.18	-1.68	-1.64	-0.26	1.22
+4	0.12	0	0.12	1.52	0.22

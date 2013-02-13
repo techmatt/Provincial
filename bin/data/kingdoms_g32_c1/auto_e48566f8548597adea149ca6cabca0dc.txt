@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	pawn,conspirator,scout,smithy,throne room,library,royal seal,upgrade,adventurer,bank@34Split@NoProsperity
+
+Leaders:	5
+Leader 0:	7.155	e2-d4-p8-bank@6|gold@99|royal seal@5|smithy@1|silver@99|pawn@1
+Leader 1:	4.925	e2-d4-p8-bank@3|gold@99|smithy@1|silver@1|royal seal@1|library@1|silver@99
+Leader 2:	-3.385	e2-d4-p8-bank@10|gold@99|smithy@1|silver@3|library@3|silver@99
+Leader 3:	-4.705	e2-d4-p8-bank@5|gold@99|smithy@1|silver@99|pawn@9
+Leader 4:	-3.91	e1-d5-p8-bank@2|gold@99|royal seal@2|smithy@2|silver@99|pawn@1
+
+Tournament
+player	0	1	2	3	4
+0	-0.54	1.9	8.44	10.12	8.16
+1	-1.12	-1.46	5.3	9.16	6.36
+2	-8.98	-7.6	1.88	2.42	0.62
+3	-11.44	-8.7	-0.16	0.2	1.48
+4	-7.92	-8.66	1.08	-0.14	-1.8

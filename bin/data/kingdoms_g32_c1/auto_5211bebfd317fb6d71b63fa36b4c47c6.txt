@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	courtyard,lighthouse,bishop,cutpurse,moneylender,bazaar,explorer,festival,nobles,king's court@34Split@NoProsperity
+
+Leaders:	5
+Leader 0:	7.54	e2-d2-p8-bazaar@2|nobles@4|gold@99|cutpurse@1|bazaar@10|bishop@1|bazaar@1|silver@99|lighthouse@1
+Leader 1:	4.33	e2-d2-p8-bazaar@2|nobles@4|gold@99|bazaar@10|cutpurse@1|bishop@1|explorer@1|bazaar@1|silver@99|courtyard@1
+Leader 2:	2.16	e2-d2-p8-bazaar@2|nobles@8|gold@99|festival@1|bazaar@5|cutpurse@2|bishop@1|silver@99|lighthouse@1
+Leader 3:	-2.435	e2-d2-p8-bazaar@2|nobles@8|gold@99|festival@1|bazaar@5|cutpurse@2|silver@99|lighthouse@1
+Leader 4:	-9.525	e2-d2-p8-bazaar@2|nobles@5|gold@99|festival@1|bazaar@5|cutpurse@2|silver@99|courtyard@1
+
+Tournament
+player	0	1	2	3	4
+0	0.58	2.62	4.2	9.2	14.14
+1	-1.18	1.52	2.62	8.14	7.74
+2	-5.04	-1.02	-1.96	5.82	8.88
+3	-7.9	-3.88	-2.72	0.56	4.76
+4	-14.58	-7.8	-8.44	-7.28	-0.06

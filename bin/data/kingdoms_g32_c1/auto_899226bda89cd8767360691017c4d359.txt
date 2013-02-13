@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	moat,great hall,island,salvager,council room,mine,tactician,venture,harem,peddler@34Split@NoProsperity
+
+Leaders:	5
+Leader 0:	7.38	e0-d3-p8-harem@8|peddler@1|gold@99|venture@1|council room@1|venture@2|island@7|silver@99|moat@1
+Leader 1:	4.255	e0-d3-p8-harem@8|peddler@1|gold@99|venture@1|council room@1|venture@2|island@7|silver@99|peddler@1
+Leader 2:	-2.165	e0-d3-p8-harem@8|gold@99|peddler@10|venture@3|peddler@2|island@7|silver@99|moat@1
+Leader 3:	-3.77	e1-d3-p8-gold@4|harem@1|gold@99|council room@1|venture@5|island@8|silver@99|peddler@1
+Leader 4:	-6.165	e1-d3-p8-gold@4|harem@1|gold@99|council room@1|venture@5|island@8|silver@99|moat@1
+
+Tournament
+player	0	1	2	3	4
+0	2.08	2.76	6	7.48	13.28
+1	-2.16	0.84	4.02	5.24	9.92
+2	-9.06	-4.88	-1.04	2.32	2.96
+3	-7.04	-8.92	-3.1	-0.3	3.98
+4	-10.04	-9.04	-1.68	-3.9	2.28

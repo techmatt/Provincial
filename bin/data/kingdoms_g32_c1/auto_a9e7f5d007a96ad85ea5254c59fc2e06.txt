@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	chapel,pearl diver,workshop,conspirator,smithy,throne room,festival,royal seal,hoard,expand@34Split@Prosperity
+
+Leaders:	5
+Leader 0:	3.065	e4-d5-p6-platinum@99|hoard@2|gold@10|royal seal@1|gold@99|festival@5|chapel@1|smithy@1|silver@99
+Leader 1:	1.795	e5-d5-p6-platinum@99|hoard@2|gold@10|royal seal@1|gold@99|festival@3|chapel@1|smithy@1|silver@99
+Leader 2:	-0.14	e1-d4-p5-platinum@99|hoard@1|gold@99|festival@1|chapel@1|smithy@1|silver@99
+Leader 3:	-1.19	e4-d4-p6-platinum@99|hoard@2|gold@12|royal seal@1|gold@99|festival@1|chapel@1|smithy@1|silver@99|pearl diver@1
+Leader 4:	-3.91	e1-d4-p5-platinum@99|hoard@1|gold@99|festival@1|chapel@1|smithy@1|silver@99|pearl diver@9
+
+Tournament
+player	0	1	2	3	4
+0	-1.36	1.48	2.38	0.82	7.58
+1	-2.08	0.1	2.74	2.38	4.14
+2	-1.76	-2.18	-1.08	-0.4	3.78
+3	-0.98	-3.2	-0.68	0.3	0.1
+4	-6.9	-7.02	-0.1	-1.62	0.52

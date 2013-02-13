@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	cellar,village,woodcutter,bridge,caravan,island,moneylender,remodel,trading post,tribute@25Split@NoProsperity
+
+Leaders:	5
+Leader 0:	0.48	e0-d4-p8-gold@99|trading post@1|caravan@3|island@1|tribute@6|island@1|silver@99
+Leader 1:	0.43	e1-d4-p8-gold@99|trading post@1|caravan@3|silver@1|caravan@4|bridge@1|silver@99
+Leader 2:	0.89	e0-d4-p8-gold@99|trading post@1|caravan@3|tribute@6|island@1|silver@99
+Leader 3:	-0.66	e1-d4-p8-gold@99|trading post@1|caravan@3|tribute@4|island@1|silver@99
+Leader 4:	-2.44	e2-d4-p8-gold@99|trading post@1|caravan@3|bridge@1|silver@99
+
+Tournament
+player	0	1	2	3	4
+0	0.76	0.1	-1.2	0.28	2.74
+1	1.26	2.74	-0.06	-0.88	1.4
+2	0.28	-1.14	-0.38	3.34	1.08
+3	-2.68	-0.94	-0.06	-0.04	1.04
+4	-3	-2.32	-1.94	-2.5	-1.12

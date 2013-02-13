@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	pearl diver,loan,cutpurse,ironworks,island,quarry,salvager,city,explorer,king's court@34Split@NoProsperity
+
+Leaders:	5
+Leader 0:	6.295	e2-d4-p8-city@6|gold@99|ironworks@1|island@8|loan@1|cutpurse@1|silver@99|pearl diver@7
+Leader 1:	3.385	e2-d4-p8-city@6|gold@99|ironworks@1|island@8|loan@1|cutpurse@1|silver@99
+Leader 2:	-1.7	e2-d4-p8-city@9|gold@99|ironworks@1|island@8|loan@1|silver@99|pearl diver@2
+Leader 3:	-3.565	e2-d4-p8-city@6|gold@99|ironworks@1|island@8|loan@1|silver@99
+Leader 4:	-3.325	e2-d4-p8-king's court@1|city@9|gold@99|ironworks@1|island@8|loan@1|cutpurse@2|silver@99|pearl diver@2
+
+Tournament
+player	0	1	2	3	4
+0	1.7	0.66	6.98	9.52	8.02
+1	-1.98	-0.5	5.14	6.44	3.94
+2	-7.38	-1.8	-1.8	1.7	0.68
+3	-8.86	-3.76	-3	1.4	1.36
+4	-6.32	-5.14	-2.82	0.98	-1.8

@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	moat,fishing village,trade route,watchtower,throne room,explorer,mountebank,rabble,tribute,vault@34Split@NoProsperity
+
+Leaders:	5
+Leader 0:	6.14	e4-d5-p8-mountebank@2|gold@99|watchtower@1|vault@1|fishing village@10|trade route@1|watchtower@1|silver@99|moat@6
+Leader 1:	5.86	e3-d5-p8-mountebank@2|gold@99|watchtower@1|vault@1|fishing village@10|trade route@1|vault@1|silver@99|moat@6
+Leader 2:	5.99	e3-d5-p8-mountebank@2|gold@99|watchtower@1|vault@1|fishing village@10|trade route@1|watchtower@1|silver@99|moat@6
+Leader 3:	-7.92	e2-d4-p8-gold@99|trade route@1|watchtower@1|rabble@1|fishing village@10|silver@99|moat@3
+Leader 4:	-11.52	e1-d4-p8-gold@99|trade route@1|watchtower@1|rabble@2|fishing village@10|throne room@1|silver@99|moat@3
+
+Tournament
+player	0	1	2	3	4
+0	-1.24	1.24	1.2	9.92	12.2
+1	-2.7	0.16	-0.12	11.92	14.34
+2	-0.8	-2.2	0.64	14.5	12.46
+3	-7.68	-13.12	-11.42	1.08	0.54
+4	-14.56	-13.06	-14.54	-3.92	0.34

@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	bridge,bureaucrat,caravan,conspirator,moneylender,talisman,counting house,mine,trading post,hoard@34Split@NoProsperity
+
+Leaders:	5
+Leader 0:	7.245	e2-d6-p8-trading post@1|hoard@1|gold@99|caravan@6|bridge@5|silver@99
+Leader 1:	1.605	e2-d6-p8-trading post@1|hoard@1|gold@99|caravan@4|conspirator@1|caravan@3|silver@99
+Leader 2:	-0.385	e2-d6-p8-trading post@1|hoard@1|gold@99|caravan@4|bureaucrat@1|caravan@1|silver@99
+Leader 3:	-3.71	e2-d5-p8-trading post@1|gold@99|caravan@6|counting house@8|silver@99
+Leader 4:	-3.75	e2-d6-p8-trading post@1|hoard@1|gold@99|caravan@4|moneylender@1|silver@99
+
+Tournament
+player	0	1	2	3	4
+0	-0.2	3.52	7.48	11	6.98
+1	-5.12	0.92	1.54	5.4	4.6
+2	-5.98	-4.06	0.4	3.02	5.48
+3	-9.94	-2.38	-0.72	-3.44	-1.8
+4	-7.78	-4.52	-4.58	1.88	-1.28

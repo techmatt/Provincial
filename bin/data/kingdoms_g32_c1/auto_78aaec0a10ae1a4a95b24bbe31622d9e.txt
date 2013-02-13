@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	great hall,wishing well,bishop,salvager,talisman,explorer,rabble,royal seal,trading post,expand@34Split@NoProsperity
+
+Leaders:	5
+Leader 0:	26.01	e0-d2-p8-gold@99|bishop@1|royal seal@1|wishing well@10|explorer@1|silver@99
+Leader 1:	27.93	e0-d1-p8-gold@99|bishop@1|wishing well@9|silver@99
+Leader 2:	-15.07	e2-d4-p8-gold@1|rabble@1|gold@99|silver@1|rabble@1|silver@12|trading post@1|silver@99
+Leader 3:	-19.14	e2-d4-p8-gold@2|rabble@1|gold@99|royal seal@1|rabble@2|silver@99
+Leader 4:	-21.375	e2-d4-p8-gold@1|rabble@1|gold@99|silver@1|rabble@1|explorer@1|trading post@1|silver@99
+
+Tournament
+player	0	1	2	3	4
+0	-1.8	23.88	25.44	25.16	29.56
+1	-21.24	-4.24	40.78	45.6	46.58
+2	-24.12	-42.6	-0.54	3.32	3.12
+3	-28.82	-45.1	-2.78	1.36	0.14
+4	-28.8	-48.54	-5.96	-2.2	1.6

@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	pearl diver,wishing well,coppersmith,sea hag,spy,counting house,mountebank,venture,witch,nobles@34Split@NoProsperity
+
+Leaders:	5
+Leader 0:	24.565	e5-d6-p8-witch@1|gold@99|venture@10|sea hag@1|mountebank@2|silver@99|pearl diver@1
+Leader 1:	23.295	e5-d6-p8-witch@1|gold@99|venture@1|sea hag@1|venture@10|silver@99
+Leader 2:	19.905	e4-d5-p8-witch@1|nobles@1|gold@99|venture@10|sea hag@1|venture@1|silver@99
+Leader 3:	-33.45	e5-d5-p8-mountebank@1|nobles@1|gold@99|mountebank@1|venture@10|mountebank@1|counting house@10|silver@99|pearl diver@1
+Leader 4:	-32.89	e5-d5-p8-mountebank@1|gold@99|mountebank@1|venture@10|silver@1|counting house@10|silver@99|pearl diver@1
+
+Tournament
+player	0	1	2	3	4
+0	1.42	1.44	3.78	48.44	44.6
+1	-1.2	0.16	2.82	46.74	44.82
+2	-4.1	0.98	-0.88	42.18	40.56
+3	-46.14	-47.38	-41.4	-0.5	1.12
+4	-45.28	-44.66	-41.86	0.24	-2.54

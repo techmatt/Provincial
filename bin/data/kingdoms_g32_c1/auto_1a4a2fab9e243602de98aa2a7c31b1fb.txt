@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	chapel,shanty town,militia,moneylender,city,mint,goons,hoard,nobles,expand@34Split@Prosperity
+
+Leaders:	5
+Leader 0:	36.36	e1-d2-p2-platinum@99|goons@1|nobles@8|gold@99|city@10|militia@1|silver@1|chapel@1|shanty town@7|silver@99
+Leader 1:	13.685	e0-d2-p3-platinum@99|goons@1|nobles@8|hoard@1|gold@99|city@10|militia@1|chapel@1|shanty town@2|silver@99
+Leader 2:	15.93	e1-d1-p3-platinum@99|nobles@8|gold@99|city@10|militia@2|chapel@1|shanty town@8|silver@99
+Leader 3:	-26.6	e0-d2-p3-platinum@99|goons@1|nobles@8|gold@99|city@10|chapel@1|silver@99
+Leader 4:	-40.4	e0-d3-p5-platinum@99|hoard@1|nobles@8|gold@99|city@1|chapel@1|silver@99
+
+Tournament
+player	0	1	2	3	4
+0	-0.3	24.14	14.44	44.7	62.16
+1	-25.32	-1.66	-14.1	35.94	58.22
+2	-17.92	13.24	0.94	26.1	42.3
+3	-45.44	-36.64	-26.3	-0.34	1.98
+4	-59.32	-57.36	-42.52	-2.4	-2.3

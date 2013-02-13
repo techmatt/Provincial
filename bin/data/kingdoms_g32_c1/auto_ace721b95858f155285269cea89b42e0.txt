@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	pearl diver,quarry,duke,mint,upgrade,goons,grand market,harem,expand,peddler@25Split@NoProsperity
+
+Leaders:	5
+Leader 0:	40.11	e4-d7-p8-goons@3|gold@99|quarry@1|peddler@10|pearl diver@5|duke@2|pearl diver@1|silver@99
+Leader 1:	31.89	e4-d6-p8-goons@4|gold@99|quarry@1|peddler@10|pearl diver@5|silver@99|pearl diver@5
+Leader 2:	29.845	e4-d6-p8-goons@3|gold@99|quarry@1|peddler@10|pearl diver@9|upgrade@1|pearl diver@1|silver@99
+Leader 3:	-44.855	e2-d4-p8-grand market@10|harem@3|gold@99|upgrade@1|peddler@2|mint@10|silver@99|peddler@5
+Leader 4:	-57.385	e3-d5-p8-gold@99|peddler@7|upgrade@1|mint@2|silver@99|pearl diver@1
+
+Tournament
+player	0	1	2	3	4
+0	-2.54	19.86	19.28	57.72	63.58
+1	-19.76	-0.62	4.72	65.02	77.58
+2	-20.5	-6.16	0.4	65.72	80.32
+3	-55.1	-65.58	-66	-1.08	7.26
+4	-62.16	-79.04	-81	-7.34	1.48

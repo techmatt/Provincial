@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	ambassador,lookout,baron,bridge,conspirator,coppersmith,militia,ghost ship,merchant ship,saboteur@34Split@NoProsperity
+
+Leaders:	5
+Leader 0:	24.22	e2-d4-p8-ghost ship@1|gold@99|ambassador@1|ghost ship@8|merchant ship@10|silver@99
+Leader 1:	14.02	e3-d5-p8-ghost ship@1|gold@99|ghost ship@8|merchant ship@6|militia@1|silver@99
+Leader 2:	11.705	e2-d5-p8-ghost ship@1|gold@99|ghost ship@8|merchant ship@6|militia@1|silver@99
+Leader 3:	-15.085	e3-d5-p8-gold@99|merchant ship@3|militia@1|silver@99
+Leader 4:	-33.84	e3-d5-p8-gold@99|merchant ship@3|silver@99
+
+Tournament
+player	0	1	2	3	4
+0	2.46	11.62	14.02	26.36	44.88
+1	-13.16	-0.56	6.26	25.38	37.6
+2	-15.16	-4.84	1.02	27.72	39.1
+3	-22.44	-24.86	-25.94	-1.9	12.9
+4	-46.26	-37.24	-37.66	-14.2	0.48

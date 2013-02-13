@@ -1,0 +1,26 @@
+name	cost	pcost	supply	type	actions	cards	buys	money	v tokens	v points	treasure
+loan	3	0	10	treasure	0	0	0	0	0	0	1
+trade route	3	0	10	action	0	0	1	0	0	0	0
+watchtower	3	0	10	action reaction	0	0	0	0	0	0	0
+bishop	4	0	10	action	0	0	0	1	1	0	0
+monument	4	0	10	action	0	0	0	2	1	0	0
+quarry	4	0	10	treasure	0	0	0	0	0	0	1
+talisman	4	0	10	treasure	0	0	0	0	0	0	1
+worker's village	4	0	10	action	2	1	1	0	0	0	0
+city	5	0	10	action	2	1	0	0	0	0	0
+contraband	5	0	10	treasure	0	0	1	0	0	0	3
+counting house	5	0	10	action	0	0	0	0	0	0	0
+mint	5	0	10	action	0	0	0	0	0	0	0
+mountebank	5	0	10	action attack	0	0	0	2	0	0	0
+rabble	5	0	10	action attack	0	3	0	0	0	0	0
+royal seal	5	0	10	treasure	0	0	0	0	0	0	2
+vault	5	0	10	action	0	2	0	0	0	0	0
+venture	5	0	10	treasure	0	0	0	0	0	0	1
+goons	6	0	10	action attack	0	0	1	2	0	0	0
+grand market	6	0	10	action	1	1	1	2	0	0	0
+hoard	6	0	10	treasure	0	0	0	0	0	0	2
+bank	7	0	10	treasure	0	0	0	0	0	0	0
+expand	7	0	10	action	0	0	0	0	0	0	0
+forge	7	0	10	action	0	0	0	0	0	0	0
+king's court	7	0	10	action	0	0	0	0	0	0	0
+peddler	8	0	10	action	1	1	0	1	0	0	0

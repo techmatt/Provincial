@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	lighthouse,loan,caravan,worker's village,minion,upgrade,witch,adventurer,grand market,peddler@25Split@NoProsperity
+
+Leaders:	5
+Leader 0:	12.6	e2-d3-p8-witch@1|minion@8|gold@99|peddler@5|lighthouse@10|upgrade@1|peddler@3|silver@99|peddler@1
+Leader 1:	16.58	e2-d3-p8-minion@8|gold@99|peddler@5|lighthouse@10|peddler@1|silver@99
+Leader 2:	14.895	e2-d3-p8-minion@8|gold@99|peddler@5|lighthouse@10|loan@10|silver@99
+Leader 3:	-12.09	e2-d4-p8-witch@1|upgrade@1|gold@99|upgrade@1|caravan@10|minion@1|silver@99|lighthouse@7
+Leader 4:	-33.315	e2-d3-p8-adventurer@1|gold@99|upgrade@1|caravan@10|minion@1|loan@1|witch@1|silver@99|lighthouse@3
+
+Tournament
+player	0	1	2	3	4
+0	0.8	-2.88	-1.24	24.1	30.42
+1	2.68	0.2	0.6	24.74	38.3
+2	1.04	-1.9	-1.14	24.88	35.56
+3	-26.64	-24.72	-24.44	-4.02	27.44
+4	-33.28	-37.28	-37.28	-25.42	-1.14

@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	swindler,baron,bureaucrat,conspirator,cutpurse,navigator,quarry,remodel,laboratory,merchant ship@34Split@Prosperity
+
+Leaders:	5
+Leader 0:	28.88	e2-d4-p5-platinum@99|gold@3|laboratory@10|gold@99|merchant ship@1|swindler@2|silver@99
+Leader 1:	22.495	e2-d5-p5-platinum@99|gold@4|laboratory@10|gold@99|silver@1|swindler@2|silver@99
+Leader 2:	17.98	e4-d4-p5-platinum@99|gold@1|laboratory@10|gold@99|silver@1|swindler@2|silver@3|baron@2|silver@99
+Leader 3:	-30.22	e2-d2-p4-platinum@99|gold@1|laboratory@10|gold@99|merchant ship@3|cutpurse@1|merchant ship@1|silver@99
+Leader 4:	-40.41	e2-d2-p4-platinum@99|gold@1|laboratory@10|gold@99|merchant ship@3|cutpurse@1|navigator@1|silver@99
+
+Tournament
+player	0	1	2	3	4
+0	-2.02	3.3	13.74	46.6	51.88
+1	-2.78	-1	9.38	38.02	45.36
+2	-12.42	-9.12	2.06	44.28	49.18
+3	-45.08	-38.78	-46.22	-1.62	9.2
+4	-52.3	-46.66	-50.68	-12	1.3

@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	chapel,smugglers,steward,ironworks,council room,merchant ship,upgrade,goons,hoard,expand@34Split@Prosperity
+
+Leaders:	5
+Leader 0:	12.04	e2-d3-p4-platinum@99|goons@2|gold@99|chapel@1|silver@99
+Leader 1:	6.535	e3-d3-p3-platinum@99|goons@1|gold@99|silver@1|chapel@1|silver@1|merchant ship@1|silver@99
+Leader 2:	5.08	e3-d3-p3-platinum@99|goons@1|gold@99|silver@1|chapel@1|silver@1|merchant ship@1|upgrade@1|silver@99
+Leader 3:	-7.36	e1-d4-p5-platinum@99|hoard@1|council room@1|gold@99|chapel@1|silver@99
+Leader 4:	-13.155	e0-d5-p5-platinum@99|hoard@1|council room@1|gold@99|chapel@1|merchant ship@1|silver@99
+
+Tournament
+player	0	1	2	3	4
+0	-0.62	6.42	13.86	10.34	17.54
+1	-4.08	-0.32	1.92	10.56	17.74
+2	-9.84	-2.9	0.34	14.98	18.08
+3	-11.1	-12.16	-12.62	0.98	6.44
+4	-16.34	-14.38	-15.66	-6.24	-2.14

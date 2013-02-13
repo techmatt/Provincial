@@ -1,0 +1,116 @@
+witchdoctor
+throne room
+king's court
+grand court
+trailblazer
+scout
+spy
+lookout
+heiress
+laboratory
+grand market
+market
+caravan
+festival
+great hall
+wishing well
+village
+upgrade
+pawn
+mining village
+fishing village
+treasury
+haven
+lighthouse
+native village
+pearl diver
+worker's village
+city
+peddler
+bazaar
+mercenary
+haunted village
+champion
+squire
+hex
+knight
+warehouse
+cellar
+acolyte
+shanty town
+nobles
+minion
+treasure map
+mountebank
+torturer
+witch
+rabble
+sea hag
+pirate ship
+ironworks
+wharf
+goons
+council room
+smithy
+expand
+merchant ship
+ghost ship
+swindler
+ambassador
+palace
+gambler
+tribute
+tactician
+library
+militia
+saboteur
+outpost
+baron
+bishop
+smugglers
+sepulcher
+promised land
+forge
+cutpurse
+salvager
+explorer
+island
+embargo
+cursed land
+betrayers
+benefactor
+aristocrat
+architect
+street urchin
+pillage
+pauper
+furnace
+floating city
+evangelist
+trade route
+watchtower
+trading post
+moneylender
+monument
+counting house
+mint
+navigator
+vault
+masquerade
+adventurer
+chancellor
+bureaucrat
+bridge
+steward
+mine
+conspirator
+woodcutter
+moat
+coppersmith
+courtyard
+secret chamber
+thief
+remodel
+workshop
+chapel
+feast

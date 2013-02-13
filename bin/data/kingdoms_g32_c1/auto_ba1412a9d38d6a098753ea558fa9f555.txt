@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	chapel,pawn,trade route,caravan,duke,library,mine,minion,saboteur,venture@34Split@Prosperity
+
+Leaders:	5
+Leader 0:	2.605	e2-d3-p4-platinum@99|gold@1|mine@1|gold@99|venture@10|saboteur@1|caravan@4|chapel@1|silver@99
+Leader 1:	4.735	e0-d3-p5-platinum@99|gold@1|mine@1|gold@99|venture@10|caravan@4|chapel@1|silver@99|pawn@9
+Leader 2:	-0.7	e4-d4-p5-platinum@99|mine@1|gold@99|caravan@3|venture@3|chapel@1|silver@99|pawn@9
+Leader 3:	0.09	e2-d4-p5-platinum@99|mine@1|gold@99|caravan@3|venture@3|chapel@1|minion@8|silver@99
+Leader 4:	-6.93	e2-d3-p4-platinum@99|gold@1|mine@1|gold@99|minion@1|venture@10|caravan@3|chapel@1|silver@99|pawn@9
+
+Tournament
+player	0	1	2	3	4
+0	1.2	-0.84	3.38	-0.34	8.22
+1	0.16	1.94	4.14	5.7	8.94
+2	-0.96	-3.46	1.76	1.16	0.46
+3	-0.08	-5.06	-0.44	-0.88	5.94
+4	-8.96	-10.26	-4.7	-3.8	-0.04

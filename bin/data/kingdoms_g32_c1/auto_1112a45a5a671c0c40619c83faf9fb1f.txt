@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	cutpurse,gardens,festival,ghost ship,market,royal seal,tribute,grand market,hoard,expand@34Split@Prosperity
+
+Leaders:	5
+Leader 0:	35.44	e5-d6-p6-platinum@99|ghost ship@3|gold@99|ghost ship@9|festival@1|market@1|silver@99
+Leader 1:	36.655	e4-d6-p6-platinum@99|ghost ship@3|gold@99|ghost ship@8|market@1|silver@99
+Leader 2:	35.66	e4-d5-p7-platinum@99|ghost ship@3|gold@99|ghost ship@10|silver@99
+Leader 3:	-53.475	e2-d4-p6-platinum@99|royal seal@1|grand market@3|gold@99|cutpurse@1|tribute@2|market@10|silver@99
+Leader 4:	-54.345	e3-d4-p5-platinum@99|royal seal@1|grand market@3|gold@99|tribute@8|cutpurse@1|royal seal@1|market@10|silver@99
+
+Tournament
+player	0	1	2	3	4
+0	-0.36	1.8	-1.64	69.04	72.56
+1	-0.66	2.52	0.68	73.48	73.12
+2	1.82	0.34	-0.84	68.3	72.18
+3	-72.86	-70.12	-68.68	0.5	-2.24
+4	-71.74	-73.1	-72.02	-0.52	-1.3

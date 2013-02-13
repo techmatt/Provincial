@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	loan,warehouse,monument,quarry,smithy,city,duke,market,treasury,adventurer@34Split@NoProsperity
+
+Leaders:	5
+Leader 0:	6.385	e1-d4-p8-gold@6|treasury@10|gold@99|monument@2|warehouse@2|treasury@2|silver@99
+Leader 1:	-0.37	e1-d4-p8-treasury@1|gold@99|monument@2|market@1|warehouse@2|market@10|silver@99
+Leader 2:	-1.715	e1-d4-p8-treasury@1|gold@99|monument@2|treasury@1|city@1|warehouse@2|market@10|silver@99
+Leader 3:	-2.21	e2-d4-p8-gold@6|treasury@10|gold@99|monument@2|warehouse@2|duke@1|loan@1|silver@99
+Leader 4:	-3.065	e1-d4-p8-treasury@1|gold@99|monument@2|market@1|city@1|warehouse@2|market@10|silver@99
+
+Tournament
+player	0	1	2	3	4
+0	-1.74	6.1	4.6	9.04	5.8
+1	-5.42	-0.04	0.74	1.18	2.02
+2	-5.92	-2.02	2.06	0.9	0.18
+3	-6.76	-2.08	-2.2	1.16	2.2
+4	-9.18	-2.16	-1.54	0.62	-1.58

@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	swindler,wishing well,conspirator,navigator,quarry,worker's village,mountebank,royal seal,upgrade,grand market@25Split@NoProsperity
+
+Leaders:	5
+Leader 0:	26.6	e4-d5-p8-gold@6|mountebank@1|gold@99|upgrade@2|wishing well@10|conspirator@2|silver@99
+Leader 1:	23.455	e4-d5-p8-gold@6|mountebank@1|gold@99|upgrade@2|mountebank@1|wishing well@10|worker's village@3|silver@99
+Leader 2:	20.105	e4-d6-p8-gold@6|mountebank@1|gold@99|upgrade@2|mountebank@1|wishing well@10|silver@99
+Leader 3:	-36.385	e2-d4-p8-grand market@1|gold@99|upgrade@10|wishing well@1|swindler@1|wishing well@10|silver@99
+Leader 4:	-33.38	e3-d5-p8-grand market@1|gold@99|upgrade@10|royal seal@1|swindler@1|wishing well@10|conspirator@3|silver@99
+
+Tournament
+player	0	1	2	3	4
+0	-1.38	0.42	6.78	51.7	47.5
+1	-2.4	-1.06	0.84	49	46.38
+2	-6.4	-1.14	1.84	44.26	43.7
+3	-50.06	-50.72	-43.54	-0.5	-1.22
+4	-46.08	-46.68	-43.74	2.98	-0.92

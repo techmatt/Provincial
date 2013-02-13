@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	cellar,moat,warehouse,baron,caravan,duke,festival,minion,torturer,hoard@34Split@Prosperity
+
+Leaders:	5
+Leader 0:	45.065	e2-d3-p3-platinum@99|festival@1|torturer@3|festival@4|gold@99|torturer@4|duke@2|caravan@9|warehouse@3|silver@99|moat@1
+Leader 1:	37.025	e2-d3-p3-platinum@99|festival@1|torturer@3|festival@4|gold@99|torturer@4|caravan@8|warehouse@3|silver@99
+Leader 2:	32.44	e2-d2-p3-platinum@99|festival@1|torturer@3|festival@4|gold@99|minion@5|festival@1|caravan@9|warehouse@1|silver@99|moat@2
+Leader 3:	-56.82	e3-d4-p6-platinum@99|hoard@1|gold@99|caravan@8|warehouse@2|silver@99
+Leader 4:	-58.71	e2-d4-p4-platinum@99|gold@99|caravan@10|warehouse@2|silver@99
+
+Tournament
+player	0	1	2	3	4
+0	-0.08	13.32	11.08	77.54	78.32
+1	-12.9	-1.36	0.86	79.7	80.44
+2	-11.04	-1	0.52	70.84	70.96
+3	-77.54	-81.22	-71.94	-3.3	3.42
+4	-77.46	-79.24	-73.12	-5.02	-1.3

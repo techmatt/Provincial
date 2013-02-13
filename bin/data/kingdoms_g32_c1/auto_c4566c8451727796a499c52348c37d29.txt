@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	cellar,bureaucrat,conspirator,mining village,remodel,market,trading post,hoard,bank,king's court@34Split@NoProsperity
+
+Leaders:	5
+Leader 0:	2.365	e3-d5-p8-bank@10|gold@99|market@5|bureaucrat@1|silver@99|cellar@1
+Leader 1:	1.345	e3-d5-p8-bank@10|gold@99|market@7|bureaucrat@1|silver@99
+Leader 2:	-2.15	e4-d6-p8-bank@10|hoard@1|gold@99|market@10|bureaucrat@1|silver@99
+Leader 3:	-0.07	e3-d5-p8-bank@10|king's court@1|gold@99|market@8|bureaucrat@1|mining village@1|silver@99|cellar@1
+Leader 4:	0.39	e3-d6-p8-bank@10|hoard@1|gold@99|market@8|bureaucrat@1|silver@99|cellar@1
+
+Tournament
+player	0	1	2	3	4
+0	-1.84	-0.22	3.96	2.88	2.84
+1	0.12	2.74	0.86	2.3	2.1
+2	-1.94	-2.5	-0.56	-1.46	-2.7
+3	-2.04	-1.22	0.8	-1.72	2.18
+4	-0.42	-0.16	3.3	-1.16	2.18

@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	fishing village,shanty town,trade route,bishop,salvager,bazaar,duke,tactician,treasury,hoard@34Split@NoProsperity
+
+Leaders:	5
+Leader 0:	12.07	e0-d5-p8-hoard@2|gold@99|treasury@10|bishop@1|fishing village@2|shanty town@1|silver@99
+Leader 1:	6.6	e1-d5-p8-hoard@1|treasury@1|gold@99|treasury@1|bishop@1|treasury@2|bazaar@10|silver@99
+Leader 2:	4.855	e2-d5-p8-hoard@1|treasury@1|gold@99|treasury@1|bishop@1|silver@1|bazaar@10|silver@99
+Leader 3:	-8.175	e2-d5-p8-hoard@1|gold@99|treasury@4|silver@1|shanty town@10|silver@99
+Leader 4:	-16.705	e1-d5-p8-hoard@1|gold@99|shanty town@1|treasury@1|bazaar@1|silver@99
+
+Tournament
+player	0	1	2	3	4
+0	0.82	6.3	8.16	13.38	20.44
+1	-6.76	1.14	-0.58	13.46	20.28
+2	-7.54	-0.02	0.54	9.24	17.74
+3	-14.34	-10.5	-13.78	-0.52	5.92
+4	-19.6	-21.08	-21	-5.14	0.4

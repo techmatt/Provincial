@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	baron,bishop,cutpurse,gardens,ironworks,monument,talisman,explorer,rabble,goons@34Split@Prosperity
+
+Leaders:	5
+Leader 0:	30.46	e2-d4-p5-platinum@99|gold@1|rabble@1|gold@99|silver@1|rabble@3|silver@99
+Leader 1:	22.21	e1-d5-p5-platinum@99|gold@99|monument@1|rabble@3|silver@99
+Leader 2:	18.98	e5-d5-p5-platinum@99|gold@7|goons@4|gold@99|rabble@2|monument@1|silver@99
+Leader 3:	-32.995	e3-d6-p7-platinum@99|goons@1|gold@1|goons@2|gold@99|cutpurse@1|silver@99
+Leader 4:	-36.54	e2-d5-p6-platinum@99|gold@1|goons@2|gold@99|monument@1|silver@99
+
+Tournament
+player	0	1	2	3	4
+0	-2.44	6.52	8.84	58.9	47.58
+1	-5.24	-1.92	2.5	48.3	43.28
+2	-7	-2.7	-0.28	44.7	40.92
+3	-58.36	-47.12	-44.04	3.58	17.54
+4	-48.4	-40.86	-41.08	-15.82	-0.94

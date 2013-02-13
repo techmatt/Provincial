@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	ambassador,chancellor,wishing well,scout,throne room,bazaar,mint,wharf,harem,hoard@34Split@NoProsperity
+
+Leaders:	5
+Leader 0:	9.42	e4-d4-p8-hoard@1|harem@8|gold@99|wharf@3|bazaar@3|silver@99
+Leader 1:	10.03	e4-d4-p8-hoard@1|harem@8|gold@99|wharf@4|silver@99
+Leader 2:	15.655	e4-d4-p8-hoard@1|harem@8|gold@99|wharf@2|bazaar@1|ambassador@1|wishing well@3|silver@99
+Leader 3:	-13.49	e3-d5-p8-hoard@1|harem@5|gold@99|ambassador@1|wishing well@1|bazaar@3|wishing well@3|silver@99
+Leader 4:	-22.65	e2-d3-p8-hoard@1|harem@5|gold@99|ambassador@1|wishing well@5|silver@99
+
+Tournament
+player	0	1	2	3	4
+0	2.36	0.58	-15.18	16.38	35.9
+1	2.62	1.28	-15.78	17.34	35.94
+2	12.74	14.48	0.18	15.82	19.58
+3	-19.14	-18.9	-16.1	-2.26	0.18
+4	-34.94	-33.84	-17.42	-4.4	0.34

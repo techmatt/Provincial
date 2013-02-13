@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	cellar,ambassador,smugglers,cutpurse,island,smithy,throne room,laboratory,minion,bank@34Split@NoProsperity
+
+Leaders:	5
+Leader 0:	2.36	e2-d4-p8-laboratory@5|bank@1|gold@99|ambassador@1|cutpurse@1|silver@1|laboratory@1|silver@99|cellar@1
+Leader 1:	0.555	e2-d3-p8-laboratory@5|minion@1|gold@99|ambassador@1|cutpurse@1|laboratory@1|silver@99|cellar@1
+Leader 2:	2.42	e1-d4-p8-gold@2|laboratory@8|gold@99|ambassador@1|cutpurse@1|island@1|silver@99|cellar@1
+Leader 3:	-1.275	e1-d4-p8-gold@99|laboratory@10|cutpurse@1|island@8|silver@99|cellar@1
+Leader 4:	-2.45	e2-d4-p8-laboratory@8|gold@99|ambassador@1|cutpurse@1|laboratory@1|silver@99|cellar@1
+
+Tournament
+player	0	1	2	3	4
+0	-0.96	6	-2.96	4.64	1.76
+1	-1.58	3.1	-2.36	5.1	1.06
+2	3.6	5.7	-1.4	-6.28	6.66
+3	-3.28	-7.86	7.04	0.34	-1
+4	-4.06	-0.2	-4.48	-1.06	-0.2

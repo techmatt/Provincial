@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	trade route,ironworks,mining village,moneylender,quarry,remodel,council room,merchant ship,rabble,grand market@34Split@NoProsperity
+
+Leaders:	5
+Leader 0:	8.355	e2-d4-p8-gold@1|rabble@1|gold@99|rabble@1|silver@99
+Leader 1:	7.575	e2-d5-p8-gold@99|rabble@2|ironworks@1|silver@99
+Leader 2:	6.1	e2-d5-p8-gold@99|rabble@2|ironworks@1|merchant ship@1|silver@99
+Leader 3:	-9.815	e3-d5-p8-gold@99|ironworks@1|merchant ship@3|silver@99
+Leader 4:	-11.905	e3-d5-p8-gold@99|merchant ship@3|silver@99
+
+Tournament
+player	0	1	2	3	4
+0	-1	2.58	2.08	12.06	16.7
+1	-0.3	2.5	3	11.2	16.4
+2	-3.68	-0.34	1.42	12	16.42
+3	-13.04	-12.86	-13.58	-0.68	0.22
+4	-16.24	-17.1	-14.78	0.5	0.48

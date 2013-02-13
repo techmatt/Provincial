@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	chapel,village,bishop,coppersmith,scout,counting house,mine,saboteur,treasury,bank@34Split@NoProsperity
+
+Leaders:	5
+Leader 0:	17.705	e1-d4-p8-bank@1|gold@99|treasury@5|counting house@2|treasury@1|bishop@1|silver@99
+Leader 1:	15.54	e1-d4-p8-gold@99|treasury@10|bishop@1|silver@99
+Leader 2:	6.52	e2-d3-p8-bank@1|gold@99|bishop@1|treasury@2|mine@1|treasury@8|silver@99
+Leader 3:	-16.445	e1-d4-p8-bank@2|gold@99|treasury@10|coppersmith@1|mine@1|silver@99
+Leader 4:	-23.415	e1-d4-p8-bank@2|gold@99|treasury@10|counting house@2|coppersmith@1|silver@99|chapel@2
+
+Tournament
+player	0	1	2	3	4
+0	1.38	-1.58	9.4	28.52	34.48
+1	2.9	0.08	9.82	21.66	27.78
+2	-7.96	-9.56	0.06	20.62	22.98
+3	-28.34	-24.92	-22.5	0.94	9.98
+4	-31.16	-27.9	-24.06	-10.54	3.42

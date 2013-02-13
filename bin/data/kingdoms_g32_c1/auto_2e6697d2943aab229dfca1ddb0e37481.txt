@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	baron,coppersmith,moneylender,salvager,bazaar,counting house,duke,market,tribute,bank@25Split@Prosperity
+
+Leaders:	5
+Leader 0:	2.15	e2-d3-p4-platinum@99|bank@1|gold@99|salvager@1|market@6|duke@1|moneylender@1|silver@99
+Leader 1:	1.325	e1-d3-p4-platinum@99|bank@4|gold@99|salvager@1|market@6|coppersmith@1|counting house@6|silver@99
+Leader 2:	2.145	e1-d3-p4-platinum@99|bank@1|gold@99|salvager@1|bazaar@1|market@7|moneylender@3|silver@99
+Leader 3:	-0.035	e2-d3-p4-platinum@99|gold@99|salvager@1|bazaar@1|market@7|moneylender@3|silver@99
+Leader 4:	-3.125	e1-d3-p4-platinum@99|bank@4|gold@99|salvager@1|market@6|coppersmith@1|moneylender@1|silver@99
+
+Tournament
+player	0	1	2	3	4
+0	0.84	2.6	0.62	1.7	3.68
+1	1.9	2.36	0.78	2.5	0.12
+2	0.7	1.48	3.86	2.98	3.42
+3	-1.08	-0.86	-0.64	-0.42	2.44
+4	-4.14	-3.46	-3.88	-1.02	0.48

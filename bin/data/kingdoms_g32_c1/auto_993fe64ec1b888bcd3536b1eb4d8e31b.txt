@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	steward,swindler,conspirator,quarry,throne room,bazaar,duke,ghost ship,royal seal,hoard@25Split@Prosperity
+
+Leaders:	5
+Leader 0:	37.86	e4-d4-p4-platinum@99|bazaar@2|ghost ship@1|bazaar@10|gold@99|bazaar@10|steward@2|conspirator@1|bazaar@10|swindler@1|silver@99
+Leader 1:	27.03	e3-d4-p4-platinum@99|bazaar@2|ghost ship@1|bazaar@1|gold@99|bazaar@10|steward@2|ghost ship@1|bazaar@10|swindler@1|silver@99
+Leader 2:	20.045	e3-d4-p3-platinum@99|bazaar@2|ghost ship@1|bazaar@10|gold@99|bazaar@10|steward@2|throne room@1|bazaar@10|swindler@1|silver@99
+Leader 3:	-36.825	e4-d4-p4-platinum@99|bazaar@2|gold@99|bazaar@10|steward@2|conspirator@2|royal seal@10|silver@99
+Leader 4:	-45.815	e4-d4-p5-platinum@99|hoard@1|bazaar@1|gold@99|bazaar@10|steward@2|conspirator@10|bazaar@1|silver@99
+
+Tournament
+player	0	1	2	3	4
+0	-2.26	12.92	12.92	57.74	67.86
+1	-12.8	-3.1	3.32	58.42	59.18
+2	-9.34	0.96	2.04	39.76	48.8
+3	-60.88	-56.9	-38.4	0.64	8.88
+4	-67.2	-57.68	-48	-10.38	-0.32

@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	pawn,pearl diver,watchtower,conspirator,moneylender,quarry,market,tactician,upgrade,wharf@25Split@NoProsperity
+
+Leaders:	5
+Leader 0:	21.14	e3-d4-p8-upgrade@1|wharf@1|gold@99|wharf@2|silver@99|pawn@1
+Leader 1:	15.835	e2-d5-p8-upgrade@1|wharf@1|gold@99|wharf@2|pawn@1|silver@99|pearl diver@1
+Leader 2:	14.41	e2-d4-p8-gold@99|wharf@2|silver@2|pawn@1|silver@99|pawn@1
+Leader 3:	-24.36	e2-d4-p8-upgrade@1|gold@99|market@1|moneylender@1|market@1|wharf@1|silver@99|pawn@3
+Leader 4:	-28.6	e2-d4-p8-upgrade@1|gold@99|market@1|watchtower@1|market@1|silver@99|pawn@3
+
+Tournament
+player	0	1	2	3	4
+0	-2.1	2.34	6.26	36.3	39.66
+1	-5.28	-0.72	3.36	32.58	32.68
+2	-6.18	-1.54	0.14	30.64	34.72
+3	-38.94	-33.82	-28.12	1.44	3.44
+4	-40.5	-34.18	-34.76	-4.96	-2.62

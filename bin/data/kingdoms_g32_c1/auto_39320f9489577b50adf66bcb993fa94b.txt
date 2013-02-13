@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	great hall,shanty town,bridge,caravan,coppersmith,navigator,treasure map,bazaar,festival,hoard@34Split@NoProsperity
+
+Leaders:	5
+Leader 0:	3.785	e4-d6-p8-hoard@2|gold@99|bazaar@1|caravan@10|shanty town@1|silver@99
+Leader 1:	-0.78	e2-d6-p8-hoard@2|gold@99|caravan@10|bazaar@1|shanty town@1|silver@99
+Leader 2:	-1.695	e3-d6-p8-hoard@2|gold@99|caravan@10|coppersmith@5|shanty town@1|silver@99
+Leader 3:	0.39	e5-d6-p8-hoard@3|gold@99|festival@1|caravan@10|festival@1|shanty town@10|silver@99
+Leader 4:	-2.26	e4-d6-p8-hoard@2|festival@1|gold@99|bazaar@1|caravan@10|shanty town@1|silver@99
+
+Tournament
+player	0	1	2	3	4
+0	-1.08	3.2	6.66	0.6	4.68
+1	-3.28	-1.28	0.04	-1.84	1.96
+2	-4.34	-2.26	-0.44	-2.04	1.86
+3	-1.24	-1.54	0.16	1.4	4.18
+4	-4.2	-1.6	-0.64	-2.6	0.48

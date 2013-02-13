@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	ambassador,caravan,cutpurse,quarry,remodel,throne room,mine,torturer,vault,expand@34Split@NoProsperity
+
+Leaders:	5
+Leader 0:	17.27	e3-d4-p8-torturer@1|gold@99|silver@2|torturer@2|silver@99
+Leader 1:	15.07	e2-d4-p8-torturer@1|gold@99|silver@2|torturer@1|vault@1|silver@99
+Leader 2:	15.2	e2-d4-p8-torturer@1|gold@99|silver@2|torturer@1|caravan@1|silver@99
+Leader 3:	-23.325	e2-d5-p8-gold@99|vault@1|cutpurse@1|caravan@2|silver@99
+Leader 4:	-26.855	e3-d5-p8-gold@99|vault@1|cutpurse@1|silver@99
+
+Tournament
+player	0	1	2	3	4
+0	1.06	3.74	1.7	26.6	37.04
+1	-1.4	0.76	-1.48	28.28	34.88
+2	-1.38	2.16	-0.32	28.18	31.84
+3	-31.72	-33.86	-29.68	-0.94	1.96
+4	-34.4	-34.68	-34.68	-3.66	0.3

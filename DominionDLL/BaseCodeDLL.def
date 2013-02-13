@@ -1,0 +1,8 @@
+LIBRARY BaseCode.dll
+
+EXPORTS
+    BCInit
+	BCProcessCommand
+	BCQueryStringByName
+	BCQueryIntegerByName
+	BCQueryDoubleByName

@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	watchtower,wishing well,feast,navigator,quarry,salvager,bazaar,library,market,trading post@34Split@Prosperity
+
+Leaders:	5
+Leader 0:	4.31	e1-d3-p3-platinum@99|trading post@1|market@10|gold@99|wishing well@10|library@1|feast@4|wishing well@1|silver@99
+Leader 1:	3.37	e1-d3-p3-platinum@99|trading post@1|market@10|library@1|gold@99|wishing well@9|trading post@7|silver@99
+Leader 2:	-1.71	e1-d3-p3-platinum@99|trading post@1|market@10|library@1|gold@99|wishing well@10|trading post@1|quarry@1|silver@99
+Leader 3:	-0.695	e1-d2-p4-platinum@99|trading post@1|bazaar@1|market@10|gold@99|wishing well@10|feast@1|library@1|silver@99
+Leader 4:	-4.1	e1-d2-p4-platinum@99|trading post@1|bazaar@1|market@10|gold@99|wishing well@10|library@1|silver@99
+
+Tournament
+player	0	1	2	3	4
+0	0.68	0.42	6.26	4.7	5.86
+1	-0.64	-0.7	4.08	4.2	5.84
+2	-2.86	-1.38	-0.78	-1.98	-0.62
+3	-3.46	-0.28	-1.26	-0.12	2.22
+4	-6.9	-4.96	-2.12	-2.42	0.5

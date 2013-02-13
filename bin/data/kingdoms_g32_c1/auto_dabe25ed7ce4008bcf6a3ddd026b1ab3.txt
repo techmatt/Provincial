@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	moat,loan,bureaucrat,gardens,ironworks,moneylender,treasure map,city,library,king's court@34Split@NoProsperity
+
+Leaders:	5
+Leader 0:	1.225	e3-d5-p8-gold@99|library@2|bureaucrat@1|silver@99|moat@8
+Leader 1:	0.565	e3-d5-p8-gold@99|library@2|bureaucrat@1|silver@99
+Leader 2:	1.445	e3-d5-p8-gold@99|library@2|bureaucrat@1|city@1|silver@99|moat@6
+Leader 3:	-2.3	e3-d5-p8-gold@99|library@2|city@1|bureaucrat@1|silver@99
+Leader 4:	-1.135	e2-d4-p8-gold@99|library@3|silver@99|moat@9
+
+Tournament
+player	0	1	2	3	4
+0	0.94	1.54	-0.66	2.26	1.76
+1	0.12	-0.12	-1	2.66	0.48
+2	-0.96	2.34	1.38	0.84	3.56
+3	-3.96	-2.56	-3.1	2.02	0.42
+4	-2.32	-2.74	-0.28	0.8	1.06

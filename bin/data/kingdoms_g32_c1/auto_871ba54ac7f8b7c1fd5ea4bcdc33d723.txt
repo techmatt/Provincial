@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	pawn,ambassador,trade route,coppersmith,gardens,mining village,duke,saboteur,wharf,witch@34Split@NoProsperity
+
+Leaders:	5
+Leader 0:	25.885	e1-d3-p8-witch@1|gold@99|wharf@2|ambassador@1|mining village@1|silver@99
+Leader 1:	26.905	e1-d3-p8-witch@1|gold@99|wharf@3|ambassador@1|mining village@10|witch@1|silver@99|pawn@10
+Leader 2:	23.8	e2-d3-p8-witch@1|gold@99|silver@1|wharf@2|ambassador@1|silver@99
+Leader 3:	-41.15	e1-d4-p8-gold@99|coppersmith@2|silver@99|pawn@4
+Leader 4:	-37.16	e1-d4-p8-gold@99|coppersmith@2|gardens@8|witch@1|silver@99|pawn@4
+
+Tournament
+player	0	1	2	3	4
+0	-0.86	-4.48	2.84	59.52	45.66
+1	2.82	-3.12	3.36	59.92	41.52
+2	-3.54	-6.46	2.66	59.2	46
+3	-60.44	-59.4	-60.22	4.14	15.46
+4	-46.06	-39.58	-47.52	-15.48	2.06

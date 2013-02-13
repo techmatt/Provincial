@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	swindler,workshop,conspirator,duke,ghost ship,mine,saboteur,torturer,grand market,expand@34Split@NoProsperity
+
+Leaders:	5
+Leader 0:	8.445	e1-d5-p8-gold@99|ghost ship@1|swindler@1|ghost ship@2|duke@8|silver@99
+Leader 1:	8.11	e1-d5-p8-gold@99|torturer@1|swindler@1|ghost ship@2|duke@8|silver@99
+Leader 2:	6.43	e1-d5-p8-gold@99|swindler@1|torturer@2|duke@8|silver@99
+Leader 3:	-9.48	e2-d4-p8-torturer@1|gold@99|torturer@2|silver@99
+Leader 4:	-15.015	e1-d4-p8-ghost ship@1|gold@99|ghost ship@4|silver@99
+
+Tournament
+player	0	1	2	3	4
+0	0.18	1.46	1.88	14.28	16.16
+1	-1.88	-0.62	0.6	14.9	18.82
+2	-4.3	-0.38	-1.56	15.48	14.92
+3	-14.4	-14.7	-16.6	-2.96	7.78
+4	-20.38	-17.14	-19.26	-3.28	0

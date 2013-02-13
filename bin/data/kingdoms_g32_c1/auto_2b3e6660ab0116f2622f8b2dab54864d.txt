@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	chancellor,lookout,swindler,wishing well,baron,bridge,worker's village,explorer,merchant ship,mountebank@25Split@NoProsperity
+
+Leaders:	5
+Leader 0:	23.63	e3-d5-p8-gold@12|mountebank@1|gold@99|merchant ship@6|silver@5|merchant ship@1|silver@1|bridge@1|silver@99
+Leader 1:	22.725	e3-d5-p8-gold@12|mountebank@1|gold@99|merchant ship@6|silver@5|merchant ship@1|explorer@1|bridge@1|silver@99
+Leader 2:	20.375	e4-d5-p8-gold@12|mountebank@2|gold@99|merchant ship@4|silver@5|worker's village@1|silver@99
+Leader 3:	-33.89	e3-d6-p8-gold@12|explorer@1|gold@99|merchant ship@6|silver@5|merchant ship@1|swindler@1|baron@1|silver@99
+Leader 4:	-33.645	e3-d5-p8-gold@10|explorer@1|gold@99|merchant ship@10|silver@6|wishing well@4|merchant ship@7|silver@99
+
+Tournament
+player	0	1	2	3	4
+0	-2.02	0.44	2.66	45.7	45.72
+1	0.36	1.34	0.42	45.36	44.76
+2	-3.82	-1.4	-0.48	42.5	44.22
+3	-44.4	-45.6	-43.9	0.28	-1.66
+4	-46.5	-45.5	-43.16	0.58	-1.34

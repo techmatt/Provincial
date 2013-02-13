@@ -1,0 +1,27 @@
+name	cost	pcost	supply	type	actions	cards	buys	money	v tokens	v points	treasure
+embargo	2	0	10	action	0	0	0	2	0	0	0
+haven	2	0	10	action duration	1	1	0	0	0	0	0
+lighthouse	2	0	10	action duration	1	0	0	1	0	0	0
+native village	2	0	10	action	2	0	0	0	0	0	0
+pearl diver	2	0	10	action	1	1	0	0	0	0	0
+ambassador	3	0	10	action attack	0	0	0	0	0	0	0
+fishing village	3	0	10	action duration	2	0	0	1	0	0	0
+lookout	3	0	10	action	1	0	0	0	0	0	0
+smugglers	3	0	10	action	0	0	0	0	0	0	0
+warehouse	3	0	10	action	1	3	0	0	0	0	0
+caravan	4	0	10	action duration	1	1	0	0	0	0	0
+cutpurse	4	0	10	action attack	0	0	0	2	0	0	0
+island	4	0	10	action victory	0	0	0	0	0	2	0
+navigator	4	0	10	action	0	0	0	2	0	0	0
+pirate ship	4	0	10	action attack	0	0	0	0	0	0	0
+salvager	4	0	10	action	0	0	1	0	0	0	0
+sea hag	4	0	10	action attack	0	0	0	0	0	0	0
+treasure map	4	0	10	action	0	0	0	0	0	0	0
+bazaar	5	0	10	action	2	1	0	1	0	0	0
+explorer	5	0	10	action	0	0	0	0	0	0	0
+ghost ship	5	0	10	action attack	0	2	0	0	0	0	0
+merchant ship	5	0	10	action duration	0	0	0	2	0	0	0
+outpost	5	0	10	action duration	0	0	0	0	0	0	0
+tactician	5	0	10	action duration	0	0	0	0	0	0	0
+treasury	5	0	10	action	1	1	0	1	0	0	0
+wharf	5	0	10	action duration	0	2	1	0	0	0	0

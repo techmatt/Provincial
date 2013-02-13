@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	loan,lookout,steward,trade route,woodcutter,remodel,scout,mine,wharf,grand market@34Split@NoProsperity
+
+Leaders:	5
+Leader 0:	33.98	e2-d4-p8-wharf@2|gold@99|wharf@1|silver@99
+Leader 1:	29.275	e2-d4-p8-wharf@1|gold@99|wharf@4|silver@5|woodcutter@10|steward@3|silver@99
+Leader 2:	27.43	e2-d4-p8-wharf@1|gold@99|wharf@4|silver@5|loan@10|steward@5|silver@99
+Leader 3:	-42.83	e4-d5-p8-gold@99|silver@1|mine@1|silver@99
+Leader 4:	-47.045	e3-d5-p8-gold@99|remodel@1|mine@1|silver@99
+
+Tournament
+player	0	1	2	3	4
+0	0.4	3.64	5.1	63.42	63.76
+1	-2.56	0.72	1.18	59.28	59.2
+2	-4.24	-1.84	0.66	57.7	58.1
+3	-60.92	-60.08	-57.46	0.36	7.14
+4	-63.14	-58.32	-59.78	-6.94	-1.36

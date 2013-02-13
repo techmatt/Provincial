@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	courtyard,loan,workshop,caravan,ironworks,city,ghost ship,market,merchant ship,trading post@34Split@NoProsperity
+
+Leaders:	5
+Leader 0:	17.125	e2-d4-p8-ghost ship@1|gold@99|ghost ship@1|caravan@9|city@1|silver@99|courtyard@1
+Leader 1:	17.08	e2-d4-p8-trading post@1|ghost ship@1|gold@99|market@3|caravan@10|market@2|city@1|silver@99
+Leader 2:	11.685	e2-d4-p8-trading post@1|ghost ship@1|gold@99|ghost ship@1|caravan@9|ghost ship@1|silver@99|courtyard@3
+Leader 3:	-18.165	e2-d5-p8-trading post@1|gold@99|market@5|caravan@10|ghost ship@1|silver@99|courtyard@9
+Leader 4:	-25.855	e2-d5-p8-trading post@1|gold@99|market@3|caravan@10|silver@99
+
+Tournament
+player	0	1	2	3	4
+0	-0.2	2.74	6.36	26.78	32.62
+1	0.5	-1.32	2.14	29.1	36.58
+2	-4.16	-2.7	-0.68	23.82	29.78
+3	-23.6	-28.44	-24.36	0.08	3.74
+4	-31.9	-32.9	-31.44	-7.18	0.68

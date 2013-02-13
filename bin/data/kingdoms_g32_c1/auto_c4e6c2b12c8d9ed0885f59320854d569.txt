@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	lighthouse,steward,cutpurse,council room,explorer,mint,tactician,wharf,adventurer,bank@34Split@NoProsperity
+
+Leaders:	5
+Leader 0:	15.555	e2-d4-p8-wharf@1|bank@4|gold@99|wharf@4|explorer@8|silver@99|lighthouse@3
+Leader 1:	13.065	e2-d4-p8-bank@4|gold@99|cutpurse@1|wharf@2|silver@99|lighthouse@9
+Leader 2:	9.71	e2-d4-p8-bank@3|gold@99|cutpurse@1|wharf@2|tactician@1|silver@99|lighthouse@10
+Leader 3:	-13.66	e3-d4-p8-bank@3|gold@99|council room@1|tactician@1|cutpurse@1|silver@99|lighthouse@10
+Leader 4:	-24.43	e2-d4-p8-bank@3|gold@99|council room@1|tactician@1|silver@99|lighthouse@10
+
+Tournament
+player	0	1	2	3	4
+0	-2.42	2.88	5.16	23.16	31.02
+1	-1.6	-0.54	2.72	20.9	30.24
+2	-5.5	-1.88	-2.02	19.52	26.7
+3	-21.36	-21.62	-18.74	0.28	7.08
+4	-31.72	-32.52	-26.88	-6.6	0.58

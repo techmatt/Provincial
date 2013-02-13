@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	pawn,ambassador,lookout,bureaucrat,coppersmith,militia,bazaar,rabble,tribute,venture@34Split@NoProsperity
+
+Leaders:	5
+Leader 0:	8.52	e3-d5-p8-gold@99|venture@7|militia@2|silver@99|pawn@10
+Leader 1:	4.34	e4-d4-p8-gold@99|rabble@1|militia@1|venture@10|silver@99
+Leader 2:	-0.08	e3-d5-p8-gold@99|venture@10|militia@3|coppersmith@1|rabble@1|silver@99|pawn@10
+Leader 3:	-7.335	e2-d4-p8-rabble@1|gold@99|venture@10|silver@5|tribute@10|bazaar@1|coppersmith@1|silver@99|pawn@1
+Leader 4:	-6.445	e2-d4-p8-rabble@1|gold@99|venture@10|silver@12|bazaar@1|coppersmith@1|silver@99|pawn@1
+
+Tournament
+player	0	1	2	3	4
+0	-0.06	2.42	8.02	11.78	11.86
+1	-3.2	0.42	3.14	7.64	9.78
+2	-7.04	-3.88	-0.74	5.54	5.06
+3	-13.46	-8.32	-7.94	0.8	0.38
+4	-10.2	-8.8	-6.08	-0.7	-2.6

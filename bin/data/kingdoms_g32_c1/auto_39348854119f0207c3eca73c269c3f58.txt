@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	chancellor,fishing village,lookout,shanty town,steward,warehouse,cutpurse,quarry,ghost ship,royal seal@34Split@NoProsperity
+
+Leaders:	5
+Leader 0:	46.78	e1-d4-p8-ghost ship@3|gold@99|fishing village@1|steward@1|fishing village@5|shanty town@1|silver@99
+Leader 1:	42.995	e1-d4-p8-ghost ship@3|gold@99|fishing village@1|royal seal@2|steward@1|fishing village@5|shanty town@1|silver@99
+Leader 2:	40.145	e1-d3-p8-ghost ship@3|gold@99|fishing village@1|steward@1|fishing village@6|ghost ship@1|silver@99
+Leader 3:	-63.285	e2-d4-p8-gold@99|cutpurse@1|warehouse@1|royal seal@10|cutpurse@1|silver@99
+Leader 4:	-65.615	e2-d5-p8-gold@99|cutpurse@1|warehouse@1|royal seal@4|shanty town@1|silver@99
+
+Tournament
+player	0	1	2	3	4
+0	-0.8	4.58	8.52	88.6	85.42
+1	-2.92	-2.58	5.76	85.84	83.3
+2	-6.36	-3.26	-2.16	86.9	83.3
+3	-87.66	-87.74	-87.06	1.28	9.32
+4	-84.68	-84.04	-83.82	-9.92	0.94

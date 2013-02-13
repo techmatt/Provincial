@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	cellar,pearl diver,quarry,sea hag,explorer,market,mine,torturer,hoard,peddler@34Split@Prosperity
+
+Leaders:	5
+Leader 0:	46.79	e3-d6-p6-platinum@99|gold@99|peddler@10|sea hag@2|market@2|torturer@10|silver@99|cellar@10
+Leader 1:	40.105	e3-d5-p6-platinum@99|gold@99|peddler@4|mine@1|sea hag@1|market@2|torturer@10|silver@99|cellar@10
+Leader 2:	40.345	e3-d5-p7-platinum@99|gold@99|peddler@3|mine@1|torturer@9|market@1|sea hag@1|silver@99|cellar@7
+Leader 3:	-64.505	e4-d5-p7-platinum@99|mine@1|gold@99|market@10|silver@99|cellar@1
+Leader 4:	-63.3	e4-d4-p6-platinum@99|mine@1|gold@99|peddler@4|market@10|silver@99|cellar@3
+
+Tournament
+player	0	1	2	3	4
+0	2.6	3.2	2.9	90.84	90.22
+1	-4.3	0.7	-2.08	83.34	83.46
+2	-4.14	0.36	0.94	82.1	83.06
+3	-90.22	-84.48	-80.52	0.2	-2.8
+4	-90.08	-83.48	-80.98	1.34	-2.04

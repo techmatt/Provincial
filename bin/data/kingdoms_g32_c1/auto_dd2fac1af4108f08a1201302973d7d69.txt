@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	lookout,woodcutter,bureaucrat,ironworks,duke,royal seal,saboteur,vault,hoard,peddler@34Split@NoProsperity
+
+Leaders:	5
+Leader 0:	3.505	e3-d6-p8-hoard@1|vault@1|gold@99|vault@1|silver@1|royal seal@1|duke@1|silver@99
+Leader 1:	3.035	e3-d6-p8-hoard@1|vault@1|gold@99|silver@1|vault@1|duke@4|silver@99|peddler@1
+Leader 2:	0.08	e3-d6-p8-hoard@1|vault@1|gold@99|peddler@2|royal seal@1|duke@4|silver@99|peddler@1
+Leader 3:	-1.38	e3-d6-p8-hoard@1|vault@1|gold@99|silver@3|vault@1|peddler@1|silver@99|peddler@1
+Leader 4:	-5.835	e2-d7-p8-hoard@1|vault@1|gold@99|bureaucrat@1|duke@4|saboteur@1|silver@99|peddler@10
+
+Tournament
+player	0	1	2	3	4
+0	-1.66	0.9	0.82	4.7	7.6
+1	0.46	-0.96	1.24	3.36	7.08
+2	-0.76	-2.36	0.3	0.22	3.22
+3	-2.9	-3.14	-3.02	1.32	3.54
+4	-9.2	-4.72	-5.34	-4.08	1.92

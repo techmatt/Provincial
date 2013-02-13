@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	moat,ambassador,lookout,steward,trade route,caravan,gardens,mining village,merchant ship,harem@34Split@NoProsperity
+
+Leaders:	5
+Leader 0:	8.18	e2-d3-p8-harem@8|gold@99|merchant ship@3|caravan@8|trade route@1|silver@99
+Leader 1:	2.47	e2-d2-p8-harem@8|merchant ship@5|gold@99|caravan@1|merchant ship@10|caravan@3|ambassador@1|silver@99
+Leader 2:	-0.96	e1-d2-p8-harem@8|gold@99|caravan@5|trade route@1|silver@99
+Leader 3:	-3.09	e2-d4-p8-gold@1|harem@8|gold@99|merchant ship@7|silver@99
+Leader 4:	-5.975	e3-d3-p8-harem@8|gold@99|merchant ship@10|caravan@3|merchant ship@1|silver@99
+
+Tournament
+player	0	1	2	3	4
+0	1.04	13.08	6.38	7.6	5.66
+1	-9.14	-0.3	-2.24	7.7	13.56
+2	-7.56	2.6	1.34	0.38	0.74
+3	-6.02	-5.78	0.5	-0.82	-1.06
+4	-9.7	-14.12	2.48	-2.56	-0.12

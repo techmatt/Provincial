@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	cellar,chapel,lighthouse,great hall,conspirator,cutpurse,gardens,explorer,adventurer,bank@34Split@NoProsperity
+
+Leaders:	5
+Leader 0:	5.035	e3-d5-p8-bank@3|gold@99|explorer@1|cutpurse@1|silver@99|lighthouse@1
+Leader 1:	1.54	e2-d5-p8-bank@5|gold@99|explorer@1|cutpurse@1|silver@99|cellar@10
+Leader 2:	0.025	e4-d5-p8-bank@4|gold@99|explorer@1|cutpurse@1|silver@99
+Leader 3:	1.32	e3-d5-p8-gold@99|explorer@1|cutpurse@1|silver@99|lighthouse@1
+Leader 4:	-5.45	e3-d5-p8-gold@99|explorer@1|cutpurse@1|silver@99
+
+Tournament
+player	0	1	2	3	4
+0	0.4	1.86	0.56	6.48	11.24
+1	-3.6	0.02	3.16	1.26	5.34
+2	-4.42	-0.48	-1.46	-0.6	5.6
+3	-4.18	2.16	1.16	0.5	6.14
+4	-10	-2.5	-4.12	-5.18	-1.34

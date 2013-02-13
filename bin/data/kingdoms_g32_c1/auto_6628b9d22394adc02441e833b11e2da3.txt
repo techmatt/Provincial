@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	pawn,ambassador,shanty town,steward,trade route,bureaucrat,militia,moneylender,bazaar,harem@34Split@NoProsperity
+
+Leaders:	5
+Leader 0:	24.45	e1-d4-p8-gold@2|harem@8|gold@99|bazaar@4|militia@10|silver@99|pawn@10
+Leader 1:	20.325	e1-d3-p8-gold@2|harem@8|gold@99|bazaar@4|militia@3|ambassador@1|silver@99|pawn@10
+Leader 2:	9.905	e1-d3-p8-gold@99|bazaar@4|militia@3|ambassador@1|silver@99|pawn@10
+Leader 3:	-25.865	e2-d4-p8-gold@1|harem@7|gold@99|bureaucrat@1|bazaar@10|silver@5|shanty town@1|silver@99|pawn@2
+Leader 4:	-30.035	e2-d4-p8-gold@1|harem@7|gold@99|bureaucrat@1|bazaar@10|silver@4|shanty town@1|silver@99
+
+Tournament
+player	0	1	2	3	4
+0	0.26	4.96	11.2	40.1	41.54
+1	-4.58	0.12	8.12	37.82	39.94
+2	-12.36	-9.88	0.44	28.98	32.88
+3	-40.88	-37.94	-27.44	1.22	2.8
+4	-43.2	-42.58	-31.7	-2.66	2.62

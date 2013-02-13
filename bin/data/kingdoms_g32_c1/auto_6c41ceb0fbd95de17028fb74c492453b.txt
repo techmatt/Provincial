@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	lighthouse,fishing village,swindler,village,ironworks,navigator,worker's village,bazaar,duke,peddler@34Split@NoProsperity
+
+Leaders:	5
+Leader 0:	11.305	e2-d4-p8-gold@9|peddler@10|gold@99|swindler@1|bazaar@5|swindler@1|fishing village@1|silver@99|lighthouse@1
+Leader 1:	12.555	e2-d5-p8-gold@12|peddler@10|gold@99|swindler@1|bazaar@10|swindler@1|silver@99|lighthouse@1
+Leader 2:	5.77	e2-d6-p8-gold@12|peddler@1|gold@99|ironworks@1|bazaar@10|swindler@1|fishing village@1|silver@99|lighthouse@9
+Leader 3:	-14.01	e3-d5-p8-gold@99|ironworks@1|peddler@2|lighthouse@1|bazaar@9|silver@99|lighthouse@2
+Leader 4:	-17.145	e2-d5-p8-gold@99|ironworks@1|peddler@2|bazaar@10|peddler@1|silver@99|lighthouse@2
+
+Tournament
+player	0	1	2	3	4
+0	-0.74	1.4	2.38	16.78	24.66
+1	-1.48	-1	2.08	21.66	27.96
+2	-4.7	-1.74	-1.24	13.28	16.24
+3	-18.62	-19.98	-13.6	1.96	-3.84
+4	-27.36	-26.58	-18.2	3.56	0.54

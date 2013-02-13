@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	fishing village,lookout,watchtower,workshop,bridge,island,tactician,adventurer,harem,king's court@34Split@NoProsperity
+
+Leaders:	5
+Leader 0:	8.845	e3-d4-p8-king's court@2|gold@99|tactician@1|bridge@10|fishing village@2|silver@99
+Leader 1:	9.55	e2-d4-p8-king's court@2|harem@1|gold@99|tactician@1|bridge@4|fishing village@1|silver@99
+Leader 2:	6.36	e3-d4-p8-king's court@2|gold@99|tactician@1|bridge@3|silver@99
+Leader 3:	-9.4	e2-d3-p8-gold@1|harem@8|gold@99|island@8|bridge@1|silver@99
+Leader 4:	-16.645	e3-d4-p8-king's court@3|gold@99|bridge@10|fishing village@2|silver@99
+
+Tournament
+player	0	1	2	3	4
+0	0.62	0.94	-1.22	14.38	21.28
+1	-1.28	-1.46	2.86	16.84	19.78
+2	-1.8	-1.28	-0.96	10.86	17.66
+3	-16.72	-15.22	-14.88	-3.28	9.22
+4	-20.22	-17.92	-20.82	-7.62	0.08

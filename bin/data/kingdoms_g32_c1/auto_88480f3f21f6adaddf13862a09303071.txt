@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	lighthouse,loan,baron,bridge,navigator,worker's village,council room,ghost ship,library,tribute@34Split@Prosperity
+
+Leaders:	5
+Leader 0:	1.8	e1-d3-p4-platinum@99|ghost ship@1|gold@99|ghost ship@5|loan@1|worker's village@1|silver@99|lighthouse@2
+Leader 1:	-0.89	e1-d5-p5-platinum@99|ghost ship@1|gold@99|loan@1|ghost ship@6|worker's village@1|library@3|silver@99
+Leader 2:	0.13	e1-d4-p4-platinum@99|ghost ship@2|gold@99|ghost ship@5|loan@1|ghost ship@1|council room@3|silver@99|lighthouse@2
+Leader 3:	2.675	e3-d3-p5-platinum@99|gold@99|library@3|lighthouse@1|council room@1|silver@99|lighthouse@1
+Leader 4:	-5.75	e3-d3-p5-platinum@99|council room@1|gold@99|library@4|tribute@1|ghost ship@1|silver@99|lighthouse@1
+
+Tournament
+player	0	1	2	3	4
+0	1.26	-1.72	-0.66	-6.44	16.02
+1	-2.26	0.56	-1.58	-9.62	9.9
+2	-0.34	0.26	0.9	-12.02	12.62
+3	8.24	9.18	13.08	-0.96	-19.8
+4	-16.3	-13.1	-11.02	17.42	2.26

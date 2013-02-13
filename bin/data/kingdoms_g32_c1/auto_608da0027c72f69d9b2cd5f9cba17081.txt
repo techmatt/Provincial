@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	moat,ambassador,great hall,baron,mining village,worker's village,explorer,market,merchant ship,venture@34Split@NoProsperity
+
+Leaders:	5
+Leader 0:	1	e3-d4-p8-gold@10|merchant ship@1|gold@99|venture@8|baron@3|market@1|mining village@1|silver@99
+Leader 1:	-0.14	e3-d4-p8-gold@10|venture@1|gold@99|venture@8|baron@3|market@1|merchant ship@1|silver@99|moat@1
+Leader 2:	1.46	e3-d4-p8-gold@99|venture@8|baron@3|market@1|merchant ship@2|silver@99
+Leader 3:	-1.34	e3-d4-p8-gold@99|venture@8|baron@2|market@1|mining village@1|silver@99
+Leader 4:	0.375	e3-d4-p8-gold@10|merchant ship@1|gold@99|venture@8|baron@1|market@1|baron@2|silver@99
+
+Tournament
+player	0	1	2	3	4
+0	1.66	2.9	-1.28	3.04	-0.66
+1	-0.44	1.6	0.5	0.4	-1.02
+2	1.74	-0.14	0.28	1.7	2.54
+3	-1.36	-0.26	-2.6	0.08	-1.14
+4	0.5	1.04	-0.56	0.52	-0.66

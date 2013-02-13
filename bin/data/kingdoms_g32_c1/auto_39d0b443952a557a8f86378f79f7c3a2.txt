@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	courtyard,pearl diver,woodcutter,island,militia,moneylender,duke,treasury,upgrade,adventurer@34Split@Prosperity
+
+Leaders:	5
+Leader 0:	5.41	e1-d4-p5-platinum@99|treasury@2|gold@99|treasury@4|militia@4|treasury@1|silver@99|courtyard@1
+Leader 1:	-0.5	e2-d3-p5-platinum@99|treasury@3|gold@99|treasury@8|militia@3|island@8|silver@99
+Leader 2:	-0.07	e1-d5-p5-platinum@99|treasury@2|gold@99|treasury@4|upgrade@1|militia@3|island@8|silver@99|pearl diver@1
+Leader 3:	-1.855	e1-d2-p3-platinum@99|gold@1|treasury@2|adventurer@1|gold@99|treasury@3|moneylender@1|island@5|silver@99
+Leader 4:	-3.585	e1-d2-p4-platinum@99|gold@1|treasury@2|adventurer@1|gold@99|treasury@3|moneylender@1|island@5|silver@99|courtyard@2
+
+Tournament
+player	0	1	2	3	4
+0	1.44	7.48	6.48	4.06	3.62
+1	-8.88	-1.48	-3.02	5.4	4.5
+2	-5.96	0.84	-0.02	3	1.84
+3	-4.8	-2.8	-2.72	0.68	2.9
+4	-8	-5.18	-5.04	3.88	0.4

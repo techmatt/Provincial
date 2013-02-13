@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	lighthouse,moat,shanty town,smugglers,bishop,gardens,monument,spy,treasury,grand market@34Split@NoProsperity
+
+Leaders:	5
+Leader 0:	-0.695	e1-d4-p8-gold@99|treasury@10|monument@3|spy@1|gardens@5|silver@99|lighthouse@1
+Leader 1:	-1.02	e0-d3-p8-treasury@1|gold@99|treasury@10|bishop@1|monument@1|spy@6|gardens@7|silver@99|lighthouse@1
+Leader 2:	-0.825	e1-d4-p8-gold@99|treasury@10|monument@3|silver@99|lighthouse@6
+Leader 3:	1.675	e0-d4-p8-gold@99|treasury@10|monument@3|treasury@2|gardens@5|silver@99|lighthouse@10
+Leader 4:	0.035	e1-d4-p8-gold@99|treasury@10|monument@3|treasury@1|gardens@5|silver@99|lighthouse@1
+
+Tournament
+player	0	1	2	3	4
+0	0.14	0.66	1.46	-1.94	-2.96
+1	-2.62	-1.4	-1.7	-1.28	1.52
+2	-1.16	3.68	0.98	-4.2	-1.62
+3	-0.4	-0.36	5.9	-0.88	1.56
+4	-1.22	0.32	2.28	-1.24	0.7

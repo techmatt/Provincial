@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	chapel,courtyard,lookout,watchtower,navigator,worker's village,duke,festival,royal seal,grand market@34Split@NoProsperity
+
+Leaders:	5
+Leader 0:	7.42	e2-d4-p8-gold@12|royal seal@9|gold@99|silver@1|courtyard@1|festival@2|courtyard@1|silver@99|courtyard@3
+Leader 1:	2.26	e2-d4-p8-gold@99|courtyard@2|royal seal@1|festival@2|silver@99|courtyard@8
+Leader 2:	-2.325	e2-d4-p8-gold@99|silver@1|courtyard@1|festival@2|courtyard@1|festival@1|silver@99|courtyard@3
+Leader 3:	-3.885	e2-d4-p8-gold@12|royal seal@3|gold@99|silver@1|courtyard@2|worker's village@1|silver@99|courtyard@3
+Leader 4:	-3.125	e2-d4-p8-gold@99|silver@1|courtyard@2|silver@99|courtyard@4
+
+Tournament
+player	0	1	2	3	4
+0	-0.78	3.52	7.5	9.8	8.86
+1	-1.94	-0.34	2.02	5.16	3.8
+2	-6.74	-4.62	-0.72	1.42	0.64
+3	-6.98	-6.86	-0.56	2.34	-1.14
+4	-7.32	-4.54	-2.54	1.9	-0.52

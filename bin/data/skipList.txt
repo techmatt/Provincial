@@ -1,0 +1,31 @@
+BASE
+thief
+
+INTRIGUE
+secret chamber
+masquerade
+
+SEASIDE
+embargo
+haven
+native village
+pirate ship
+outpost
+
+ALCHEMY
+transmute
+vineyard
+apothecary
+herbalist
+scrying pool
+university
+alchemist
+familiar
+philosopher's stone
+golem
+apprentice
+possession
+
+PROSPERITY
+contraband
+forge

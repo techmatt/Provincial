@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	great hall,bureaucrat,moneylender,throne room,treasure map,explorer,laboratory,rabble,goons,expand@25Split@Prosperity
+
+Leaders:	5
+Leader 0:	14.96	e2-d2-p2-platinum@99|goons@1|laboratory@10|gold@99|moneylender@1|laboratory@1|throne room@2|rabble@3|silver@99
+Leader 1:	14.09	e1-d2-p3-platinum@99|goons@1|laboratory@10|gold@99|moneylender@1|throne room@1|laboratory@8|silver@99
+Leader 2:	10.285	e2-d3-p4-platinum@99|goons@1|laboratory@10|gold@99|moneylender@1|laboratory@1|throne room@1|laboratory@6|explorer@1|silver@99
+Leader 3:	-18.195	e0-d1-p2-platinum@99|laboratory@9|gold@99|moneylender@1|silver@1|great hall@1|silver@99
+Leader 4:	-21.055	e0-d2-p2-platinum@99|laboratory@8|gold@99|moneylender@1|silver@2|rabble@1|silver@99
+
+Tournament
+player	0	1	2	3	4
+0	0.84	1.44	3.82	29.78	24.8
+1	-3.7	2.08	3.3	31.1	25.66
+2	-4.56	-2.42	1.88	25.86	22.26
+3	-29.68	-27.66	-23.8	-1.1	8.36
+4	-27.62	-26.56	-21.5	-8.54	-1.06

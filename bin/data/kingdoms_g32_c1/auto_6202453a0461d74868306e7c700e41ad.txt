@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	courtyard,warehouse,feast,counting house,library,mine,mountebank,royal seal,grand market,expand@34Split@NoProsperity
+
+Leaders:	5
+Leader 0:	30.345	e3-d5-p8-mountebank@1|gold@99|warehouse@1|mountebank@1|royal seal@2|silver@99|courtyard@7
+Leader 1:	27.85	e3-d5-p8-mountebank@1|gold@99|mountebank@1|warehouse@1|royal seal@10|silver@99
+Leader 2:	27.5	e4-d5-p8-mountebank@1|gold@99|warehouse@1|mountebank@1|royal seal@1|library@1|royal seal@1|silver@99|courtyard@7
+Leader 3:	-42.495	e2-d4-p8-gold@99|library@2|warehouse@1|royal seal@7|mine@1|silver@99|courtyard@1
+Leader 4:	-43.73	e1-d4-p8-gold@99|library@2|warehouse@1|royal seal@1|counting house@1|silver@99|courtyard@10
+
+Tournament
+player	0	1	2	3	4
+0	0.3	0.3	0.12	60	60.96
+1	-2.24	-2.04	-2.68	57.84	58.48
+2	0.4	0.62	0.22	54.3	54.68
+3	-59	-57.9	-55.42	-1.64	2.34
+4	-59.18	-57.96	-54.46	-3.32	1.08

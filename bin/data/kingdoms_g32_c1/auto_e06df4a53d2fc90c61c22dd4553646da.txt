@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	moat,baron,coppersmith,island,smithy,duke,festival,mountebank,tactician,harem@34Split@Prosperity
+
+Leaders:	5
+Leader 0:	11.75	e2-d5-p5-platinum@99|mountebank@1|gold@99|mountebank@1|festival@10|smithy@1|silver@99
+Leader 1:	13.95	e2-d5-p5-platinum@99|mountebank@1|gold@99|mountebank@1|festival@10|smithy@1|silver@99|moat@1
+Leader 2:	9.035	e3-d4-p5-platinum@99|gold@1|mountebank@1|gold@99|mountebank@1|smithy@1|silver@99|moat@1
+Leader 3:	-16.58	e1-d3-p6-platinum@99|tactician@1|gold@99|coppersmith@3|tactician@1|silver@99|moat@1
+Leader 4:	-16.26	e2-d3-p5-platinum@99|tactician@1|gold@99|coppersmith@3|tactician@1|island@1|coppersmith@1|silver@99
+
+Tournament
+player	0	1	2	3	4
+0	-1.62	-2.52	3.84	20.94	24.74
+1	2.9	0.46	6.72	21.96	24.22
+2	-3.96	-7.96	-0.4	21.3	26.76
+3	-22.62	-19.94	-20.64	-1.26	-3.12
+4	-22.82	-23.68	-25.08	6.54	-0.5

@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	chapel,great hall,loan,lookout,smugglers,wishing well,monument,festival,mountebank,wharf@34Split@Prosperity
+
+Leaders:	5
+Leader 0:	22.315	e2-d3-p4-platinum@99|gold@1|mountebank@1|gold@99|wishing well@1|chapel@1|wharf@1|wishing well@1|festival@1|silver@99
+Leader 1:	16.215	e2-d3-p3-platinum@99|gold@1|mountebank@1|gold@99|wishing well@1|chapel@1|mountebank@1|wishing well@1|silver@99
+Leader 2:	22.09	e2-d3-p3-platinum@99|gold@1|mountebank@1|gold@99|wishing well@1|chapel@1|wharf@1|wishing well@1|silver@99
+Leader 3:	2.77	e1-d2-p3-platinum@99|wharf@1|gold@99|wharf@1|chapel@1|festival@8|mountebank@1|wishing well@1|silver@99
+Leader 4:	-62.995	e3-d3-p3-platinum@99|gold@99|wishing well@1|chapel@1|festival@1|wishing well@1|silver@99
+
+Tournament
+player	0	1	2	3	4
+0	-0.66	9.34	3.66	10.7	65.56
+1	-9.34	0.72	-5.62	13.34	66.48
+2	-2.36	5.46	0.02	15.04	70.22
+3	-14.36	-11.9	-13	-2.2	50.34
+4	-66.08	-65.56	-69.88	-50.46	-0.54

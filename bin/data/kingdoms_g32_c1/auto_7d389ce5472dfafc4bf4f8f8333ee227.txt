@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	ambassador,navigator,quarry,merchant ship,minion,mint,trading post,tribute,hoard,expand@25Split@Prosperity
+
+Leaders:	5
+Leader 0:	13.19	e2-d3-p6-platinum@99|gold@99|ambassador@2|minion@1|silver@1|merchant ship@3|silver@99
+Leader 1:	7.015	e2-d3-p6-platinum@99|gold@99|ambassador@2|silver@1|merchant ship@3|silver@99
+Leader 2:	-0.815	e2-d4-p6-platinum@99|hoard@1|gold@99|ambassador@2|silver@1|merchant ship@3|silver@99
+Leader 3:	-5.575	e2-d3-p6-platinum@99|gold@99|ambassador@2|minion@1|navigator@1|merchant ship@3|silver@99
+Leader 4:	-12.04	e3-d4-p6-platinum@99|gold@99|ambassador@1|minion@2|tribute@1|merchant ship@3|silver@99
+
+Tournament
+player	0	1	2	3	4
+0	-0.14	2.76	13.5	17.42	19.08
+1	-5.76	-1.4	6.04	13.24	14.54
+2	-12.06	-8.36	-0.88	4.18	12.98
+3	-14.76	-10.08	-2.26	-0.3	4.8
+4	-19.26	-14.66	-10.58	-3.66	1.58

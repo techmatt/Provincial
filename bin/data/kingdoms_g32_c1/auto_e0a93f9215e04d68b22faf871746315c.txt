@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	loan,village,woodcutter,gardens,monument,throne room,council room,library,saboteur,bank@34Split@NoProsperity
+
+Leaders:	5
+Leader 0:	2.315	e2-d4-p8-bank@6|gold@99|monument@2|silver@5|gardens@8|throne room@1|silver@99
+Leader 1:	1.31	e3-d3-p8-bank@5|gold@99|monument@1|silver@1|council room@1|silver@99
+Leader 2:	1.485	e1-d4-p8-bank@3|council room@1|gold@99|monument@1|silver@5|gardens@8|saboteur@1|silver@99
+Leader 3:	-2.935	e3-d4-p8-bank@3|gold@99|monument@2|silver@6|gardens@8|silver@99
+Leader 4:	-5.85	e2-d4-p8-gold@99|monument@2|silver@5|gardens@8|throne room@1|silver@99
+
+Tournament
+player	0	1	2	3	4
+0	-1.96	2.56	0.74	1.72	4.24
+1	0.76	0.3	-1.04	0.08	5.44
+2	0.14	-4.36	0.18	2.98	7.18
+3	-4.7	-1.72	-4.72	-0.04	-0.6
+4	-5.2	-7.92	-8.22	-2.06	0.02

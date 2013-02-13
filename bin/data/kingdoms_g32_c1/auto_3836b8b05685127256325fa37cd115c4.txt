@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	pearl diver,great hall,feast,ironworks,salvager,smithy,city,counting house,merchant ship,peddler@34Split@NoProsperity
+
+Leaders:	5
+Leader 0:	5.185	e2-d4-p8-gold@99|merchant ship@1|smithy@1|silver@99
+Leader 1:	0.155	e2-d4-p8-gold@99|merchant ship@2|smithy@1|counting house@1|silver@99|peddler@7
+Leader 2:	-0.715	e1-d4-p8-gold@7|peddler@10|gold@99|merchant ship@2|smithy@1|city@10|silver@99
+Leader 3:	-2.945	e1-d5-p8-gold@99|merchant ship@2|smithy@1|silver@99|pearl diver@1
+Leader 4:	-2.57	e2-d4-p8-gold@99|peddler@2|smithy@1|silver@99|peddler@2
+
+Tournament
+player	0	1	2	3	4
+0	-3.5	5.22	3.56	4.56	7.4
+1	-0.5	-1.3	0.3	1.5	-0.68
+2	-2.94	-1.82	-0.84	0.96	0.94
+3	-6.38	-3.56	-0.72	1.28	-1.12
+4	-3.96	-3.9	-2.58	0.16	-0.54

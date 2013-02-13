@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	courtyard,loan,workshop,baron,bishop,monument,smithy,mint,mountebank,venture@34Split@NoProsperity
+
+Leaders:	5
+Leader 0:	19.645	e2-d5-p8-mountebank@1|gold@99|venture@9|monument@2|silver@99|courtyard@1
+Leader 1:	16.345	e3-d4-p8-mountebank@1|gold@99|venture@9|monument@2|silver@99|courtyard@1
+Leader 2:	9.675	e1-d5-p8-mountebank@1|gold@99|venture@10|monument@2|silver@2|smithy@1|silver@99|courtyard@9
+Leader 3:	-21.48	e2-d5-p8-gold@99|venture@10|monument@2|mint@1|monument@1|silver@99|courtyard@3
+Leader 4:	-22.77	e3-d5-p8-gold@99|venture@10|monument@2|mint@1|monument@1|silver@99|courtyard@3
+
+Tournament
+player	0	1	2	3	4
+0	1.96	1.76	7.5	32.84	36.48
+1	-2.24	1.82	6.74	29.52	31.36
+2	-6.86	-7.18	2.62	25.44	27.3
+3	-31.88	-32.04	-24.3	-0.42	2.3
+4	-33.86	-30.56	-24.66	-2	-0.7

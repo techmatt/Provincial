@@ -1,0 +1,10 @@
+name	cost	pcost	supply	type	actions	cards	buys	money	v tokens	v points	treasure
+copper	0	0	60	treasure	0	0	0	0	0	0	1
+silver	3	0	40	treasure	0	0	0	0	0	0	2
+gold	6	0	30	treasure	0	0	0	0	0	0	3
+platinum	9	0	12	treasure	0	0	0	0	0	0	5
+estate	2	0	24	victory	0	0	0	0	0	1	0
+duchy	5	0	12	victory	0	0	0	0	0	3	0
+province	8	0	12	victory	0	0	0	0	0	6	0
+colony	11	0	12	victory	0	0	0	0	0	10	0
+curse	0	0	30	curse	0	0	0	0	0	-1	0

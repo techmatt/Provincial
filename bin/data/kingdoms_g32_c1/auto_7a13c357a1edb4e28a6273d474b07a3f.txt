@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	chapel,lookout,coppersmith,moneylender,scout,worker's village,festival,torturer,adventurer,expand@34Split@Prosperity
+
+Leaders:	5
+Leader 0:	39.92	e0-d2-p2-platinum@99|torturer@3|festival@2|gold@99|silver@1|worker's village@4|chapel@1|coppersmith@1|silver@99
+Leader 1:	40.01	e0-d2-p2-platinum@99|torturer@3|festival@2|gold@99|silver@1|worker's village@4|chapel@1|torturer@1|silver@99
+Leader 2:	34.275	e2-d2-p3-platinum@99|torturer@3|gold@99|worker's village@2|chapel@1|worker's village@1|silver@99
+Leader 3:	-55.55	e2-d3-p4-platinum@99|gold@99|chapel@1|silver@99
+Leader 4:	-58.715	e3-d4-p5-platinum@99|adventurer@1|gold@99|chapel@1|silver@6|festival@1|silver@99
+
+Tournament
+player	0	1	2	3	4
+0	0.4	-1.5	5.38	72.84	82.96
+1	1.12	-0.38	3.58	72.42	82.92
+2	-5.58	-6.24	-0.44	65.46	83.46
+3	-70.62	-68.9	-67.18	-1.7	-15.5
+4	-82.96	-82.28	-84.06	14.44	0.74

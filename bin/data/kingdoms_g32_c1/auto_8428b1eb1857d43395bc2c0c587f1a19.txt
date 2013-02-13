@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	warehouse,wishing well,mining village,quarry,mint,mountebank,grand market,harem,hoard,expand@34Split@NoProsperity
+
+Leaders:	5
+Leader 0:	39.6	e3-d6-p8-hoard@1|harem@8|gold@99|warehouse@1|mountebank@3|silver@99
+Leader 1:	40.845	e3-d6-p8-hoard@1|harem@8|gold@99|mountebank@3|warehouse@1|silver@1|wishing well@1|silver@99
+Leader 2:	40.105	e3-d6-p8-hoard@1|harem@7|gold@99|mountebank@3|warehouse@1|silver@6|mining village@1|silver@99
+Leader 3:	-59.905	e3-d5-p8-hoard@1|harem@8|gold@99|warehouse@1|silver@7|wishing well@1|silver@99
+Leader 4:	-61.085	e3-d4-p8-hoard@1|harem@8|gold@99|warehouse@1|silver@99
+
+Tournament
+player	0	1	2	3	4
+0	0.34	-0.12	-2.08	79.8	80.8
+1	0.5	-0.28	-0.24	81.18	81.94
+2	0.06	1.04	2.08	79.62	79.7
+3	-80.56	-81.84	-80.84	0.74	3.62
+4	-80.6	-81.98	-81.24	-0.52	0.96

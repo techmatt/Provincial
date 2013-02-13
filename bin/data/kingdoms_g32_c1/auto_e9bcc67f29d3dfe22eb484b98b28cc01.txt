@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	bridge,conspirator,mining village,smithy,spy,city,minion,torturer,bank,peddler@25Split@NoProsperity
+
+Leaders:	5
+Leader 0:	30.41	e2-d4-p8-bank@10|torturer@1|gold@99|minion@1|torturer@1|minion@7|city@1|silver@99|peddler@1
+Leader 1:	25.54	e2-d4-p8-gold@99|torturer@1|minion@6|torturer@1|silver@99|peddler@1
+Leader 2:	25.23	e2-d3-p8-bank@10|torturer@1|gold@99|minion@1|torturer@1|peddler@2|minion@7|silver@99|peddler@1
+Leader 3:	-40.1	e2-d4-p8-bank@3|gold@99|smithy@1|silver@4|smithy@1|mining village@1|silver@99|peddler@1
+Leader 4:	-42.635	e3-d4-p8-bank@1|gold@99|peddler@8|smithy@1|silver@4|smithy@1|silver@99|peddler@1
+
+Tournament
+player	0	1	2	3	4
+0	-0.76	4.36	4.68	55.9	56.7
+1	-4.2	-1.46	-1	53.22	54.14
+2	-2.8	-1.4	1.68	51.36	53.76
+3	-56.32	-53.22	-53.76	0.3	2.9
+4	-57.68	-53.68	-54.52	-4.66	-1.36

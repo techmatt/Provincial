@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	chapel,moneylender,remodel,sea hag,talisman,counting house,merchant ship,minion,venture,harem@34Split@NoProsperity
+
+Leaders:	5
+Leader 0:	12.07	e2-d4-p8-gold@1|venture@5|gold@99|venture@4|counting house@1|chapel@1|sea hag@1|merchant ship@1|silver@99
+Leader 1:	5.04	e3-d3-p8-harem@1|venture@5|gold@99|minion@1|merchant ship@1|chapel@1|sea hag@1|counting house@1|silver@99
+Leader 2:	-1.65	e1-d3-p8-venture@4|gold@99|sea hag@1|chapel@1|merchant ship@1|silver@99
+Leader 3:	-4.7	e1-d4-p8-gold@1|venture@7|gold@99|minion@4|silver@1|chapel@1|silver@99
+Leader 4:	-10.175	e1-d3-p8-harem@1|venture@7|gold@99|counting house@1|chapel@1|silver@99
+
+Tournament
+player	0	1	2	3	4
+0	0.52	6.2	12.52	11.4	18.16
+1	-6.1	1.02	3.08	6.9	16.28
+2	-9.72	-8.24	0.7	3.18	8.18
+3	-10.24	-6.76	-4.58	1.5	2.78
+4	-15.22	-14.72	-9.02	-1.74	-0.24

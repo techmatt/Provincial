@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	cellar,lighthouse,fishing village,wishing well,woodcutter,bridge,ironworks,monument,treasure map,festival@34Split@NoProsperity
+
+Leaders:	5
+Leader 0:	-0.51	e3-d5-p8-gold@99|monument@4|fishing village@3|festival@10|monument@3|ironworks@8|silver@99|lighthouse@2
+Leader 1:	0.75	e3-d5-p8-gold@99|monument@4|fishing village@3|festival@1|monument@3|wishing well@1|silver@99|lighthouse@10
+Leader 2:	-2.465	e2-d5-p8-gold@99|monument@4|fishing village@3|monument@3|silver@99|lighthouse@1
+Leader 3:	0.3	e3-d5-p8-gold@99|monument@4|fishing village@3|festival@10|monument@3|cellar@1|silver@99|lighthouse@2
+Leader 4:	0.81	e2-d5-p8-gold@99|monument@4|fishing village@3|festival@1|monument@3|fishing village@9|silver@99|lighthouse@2
+
+Tournament
+player	0	1	2	3	4
+0	-0.42	-1.64	0.58	-0.52	-0.46
+1	-1.28	-1.58	2.84	-1.62	3.06
+2	-4	-3.22	-0.46	0.08	-2.72
+3	-0.86	1.74	1.16	-0.06	-0.84
+4	1.66	-0.94	2.1	0.42	2.14

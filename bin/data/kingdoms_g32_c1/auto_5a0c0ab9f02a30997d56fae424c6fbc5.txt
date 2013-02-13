@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	shanty town,bishop,mining village,smithy,worker's village,saboteur,torturer,tribute,wharf,bank@34Split@NoProsperity
+
+Leaders:	5
+Leader 0:	35.87	e1-d2-p8-torturer@5|bank@1|gold@99|shanty town@10|worker's village@10|shanty town@1|torturer@1|silver@99
+Leader 1:	36.8	e1-d2-p8-torturer@5|wharf@1|gold@99|shanty town@10|worker's village@10|shanty town@1|torturer@1|silver@99
+Leader 2:	39.215	e1-d3-p8-torturer@5|bank@4|gold@99|shanty town@6|wharf@1|worker's village@3|shanty town@2|silver@99
+Leader 3:	-43.75	e3-d4-p8-bank@10|gold@99|smithy@1|wharf@2|silver@99
+Leader 4:	-66.105	e4-d4-p8-bank@10|gold@99|smithy@1|silver@99
+
+Tournament
+player	0	1	2	3	4
+0	-0.46	-0.2	1.46	65.62	76.6
+1	0.38	0.3	2.34	69.5	74.98
+2	-0.42	-2.1	1.56	76.04	83.34
+3	-63.92	-68.28	-74.88	1.54	32.08
+4	-73.82	-76.74	-82.88	-30.98	-2.56

@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClInclude Include="Config.h">
+      <Filter>Base</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine.h">
+      <Filter>Base</Filter>
+    </ClInclude>
+    <ClInclude Include="Main.h">
+      <Filter>Base</Filter>
+    </ClInclude>
+    <ClInclude Include="AppParameters.h">
+      <Filter>App</Filter>
+    </ClInclude>
+    <ClInclude Include="App.h">
+      <Filter>App</Filter>
+    </ClInclude>
+    <ClInclude Include="Constants.h">
+      <Filter>App</Filter>
+    </ClInclude>
+    <ClInclude Include="BaseCodeDLL.h">
+      <Filter>Base</Filter>
+    </ClInclude>
+    <ClInclude Include="CardDatabase.h">
+      <Filter>Game</Filter>
+    </ClInclude>
+    <ClInclude Include="State.h">
+      <Filter>Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Event.h">
+      <Filter>Game</Filter>
+    </ClInclude>
+    <ClInclude Include="GameData.h">
+      <Filter>Game</Filter>
+    </ClInclude>
+    <ClInclude Include="DominionGame.h">
+      <Filter>Game</Filter>
+    </ClInclude>
+    <ClInclude Include="CardEffect.h">
+      <Filter>Game</Filter>
+    </ClInclude>
+    <ClInclude Include="CardEffectBase.h">
+      <Filter>Game</Filter>
+    </ClInclude>
+    <ClInclude Include="EventBase.h">
+      <Filter>Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Enums.h">
+      <Filter>Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>AI</Filter>
+    </ClInclude>
+    <ClInclude Include="BuyAgenda.h">
+      <Filter>AI</Filter>
+    </ClInclude>
+    <ClInclude Include="AIUtility.h">
+      <Filter>AI</Filter>
+    </ClInclude>
+    <ClInclude Include="TestChamber.h">
+      <Filter>AI</Filter>
+    </ClInclude>
+    <ClInclude Include="CardEffectIntrigue.h">
+      <Filter>Game</Filter>
+    </ClInclude>
+    <ClInclude Include="EventIntrigue.h">
+      <Filter>Game</Filter>
+    </ClInclude>
+    <ClInclude Include="CardEffectAlchemy.h">
+      <Filter>Game</Filter>
+    </ClInclude>
+    <ClInclude Include="CardEffectProsperity.h">
+      <Filter>Game</Filter>
+    </ClInclude>
+    <ClInclude Include="CardEffectSeaside.h">
+      <Filter>Game</Filter>
+    </ClInclude>
+    <ClInclude Include="EventAlchemy.h">
+      <Filter>Game</Filter>
+    </ClInclude>
+    <ClInclude Include="EventProsperity.h">
+      <Filter>Game</Filter>
+    </ClInclude>
+    <ClInclude Include="EventSeaside.h">
+      <Filter>Game</Filter>
+    </ClInclude>
+    <ClInclude Include="MetaTestChamber.h">
+      <Filter>AI</Filter>
+    </ClInclude>
+    <ClInclude Include="CardEffectCustom.h">
+      <Filter>Game</Filter>
+    </ClInclude>
+    <ClInclude Include="EventCustom.h">
+      <Filter>Game</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="DLLMain.cpp">
+      <Filter>Base</Filter>
+    </ClCompile>
+    <ClCompile Include="Engine.cpp">
+      <Filter>Base</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp">
+      <Filter>Base</Filter>
+    </ClCompile>
+    <ClCompile Include="AppParameters.cpp">
+      <Filter>App</Filter>
+    </ClCompile>
+    <ClCompile Include="App.cpp">
+      <Filter>App</Filter>
+    </ClCompile>
+    <ClCompile Include="BaseCodeDLL.cpp">
+      <Filter>Base</Filter>
+    </ClCompile>
+    <ClCompile Include="State.cpp">
+      <Filter>Game</Filter>
+    </ClCompile>
+    <ClCompile Include="GameData.cpp">
+      <Filter>Game</Filter>
+    </ClCompile>
+    <ClCompile Include="CardDatabase.cpp">
+      <Filter>Game</Filter>
+    </ClCompile>
+    <ClCompile Include="DominionGame.cpp">
+      <Filter>Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Event.cpp">
+      <Filter>Game</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerRandom.cpp">
+      <Filter>AI</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerHeuristic.cpp">
+      <Filter>AI</Filter>
+    </ClCompile>
+    <ClCompile Include="BuyAgenda.cpp">
+      <Filter>AI</Filter>
+    </ClCompile>
+    <ClCompile Include="AIUtility.cpp">
+      <Filter>AI</Filter>
+    </ClCompile>
+    <ClCompile Include="TestChamber.cpp">
+      <Filter>AI</Filter>
+    </ClCompile>
+    <ClCompile Include="MetaTestChamber.cpp">
+      <Filter>AI</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Base">
+      <UniqueIdentifier>{c928787a-2d0a-40d8-9c91-930e53aad1ad}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="App">
+      <UniqueIdentifier>{e0bdb0f1-00f3-41f9-8c72-c27b4e6bb002}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Files">
+      <UniqueIdentifier>{1877c21b-f73a-465d-9c64-ac8eed3a4f70}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game">
+      <UniqueIdentifier>{924643e6-187f-4797-9685-b427c80fa3b9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AI">
+      <UniqueIdentifier>{f24c2967-8248-4d95-b5a1-a7cf98f6fd98}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\bin\Console.txt">
+      <Filter>Files</Filter>
+    </None>
+    <None Include="BaseCodeDLL.def">
+      <Filter>Base</Filter>
+    </None>
+    <None Include="Thoughts.txt">
+      <Filter>Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="CardListState.txt">
+      <Filter>Files</Filter>
+    </Text>
+    <Text Include="..\bin\data\skipList.txt">
+      <Filter>Files</Filter>
+    </Text>
+  </ItemGroup>
+</Project>

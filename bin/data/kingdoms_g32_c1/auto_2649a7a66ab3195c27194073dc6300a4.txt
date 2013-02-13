@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	lighthouse,pearl diver,ambassador,loan,watchtower,island,monument,worker's village,mountebank,venture@34Split@NoProsperity
+
+Leaders:	5
+Leader 0:	11.82	e1-d5-p8-mountebank@1|gold@99|monument@1|loan@1|venture@10|lighthouse@2|island@8|silver@99|lighthouse@10
+Leader 1:	11.875	e1-d4-p8-gold@1|mountebank@1|gold@99|monument@1|venture@10|lighthouse@2|island@8|silver@99|lighthouse@9
+Leader 2:	2.74	e3-d4-p8-mountebank@1|gold@99|monument@2|venture@10|lighthouse@4|silver@99|lighthouse@10
+Leader 3:	-12.23	e1-d5-p8-gold@99|monument@1|venture@10|lighthouse@2|island@8|silver@99|lighthouse@10
+Leader 4:	-15.255	e3-d4-p8-gold@99|venture@3|monument@2|venture@4|silver@99|pearl diver@1
+
+Tournament
+player	0	1	2	3	4
+0	0.46	-0.76	3.34	16.4	28.3
+1	-0.84	-1.62	8.16	12.32	27.86
+2	-2.08	-5.22	-2.16	-1.18	19.44
+3	-14.76	-13.96	-3.42	0.2	-16.78
+4	-29.38	-26.32	-19.54	14.22	-0.04

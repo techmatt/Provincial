@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	village,workshop,baron,gardens,mining village,remodel,throne room,treasure map,rabble,nobles@25Split@NoProsperity
+
+Leaders:	5
+Leader 0:	18.15	e2-d3-p8-gold@2|nobles@8|gold@99|rabble@1|silver@2|rabble@1|silver@99
+Leader 1:	13.605	e1-d4-p8-rabble@1|gold@99|rabble@1|silver@5|gardens@8|treasure map@6|silver@99
+Leader 2:	6.475	e1-d4-p8-rabble@1|nobles@1|gold@99|rabble@1|silver@5|gardens@8|treasure map@1|silver@99
+Leader 3:	-11.62	e4-d4-p8-gold@99|baron@3|gardens@8|silver@99
+Leader 4:	-25.95	e3-d4-p8-gold@99|baron@3|silver@99
+
+Tournament
+player	0	1	2	3	4
+0	-0.8	4.92	9.08	25.06	33.54
+1	-2.46	-1.82	7.18	23.44	26.26
+2	-9.86	-7.06	0.48	17.98	24.84
+3	-25.9	-21.2	-18.44	-1.22	19.06
+4	-33.38	-24.66	-24.02	-21.74	0.24

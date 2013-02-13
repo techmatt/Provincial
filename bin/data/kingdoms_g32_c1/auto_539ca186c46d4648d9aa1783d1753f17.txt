@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	loan,lookout,gardens,ironworks,militia,explorer,laboratory,witch,expand,king's court@34Split@Prosperity
+
+Leaders:	5
+Leader 0:	43.43	e0-d3-p4-platinum@99|witch@1|king's court@1|laboratory@6|gold@99|militia@1|witch@1|explorer@1|lookout@1|laboratory@3|silver@99
+Leader 1:	38.3	e0-d3-p4-platinum@99|witch@1|king's court@1|laboratory@6|gold@99|militia@1|silver@1|explorer@1|lookout@1|laboratory@3|silver@99
+Leader 2:	39.47	e1-d3-p3-king's court@1|platinum@99|witch@1|laboratory@5|gold@99|militia@1|laboratory@1|lookout@1|loan@1|silver@99
+Leader 3:	-61.055	e1-d2-p3-platinum@99|laboratory@10|king's court@1|gold@99|lookout@1|laboratory@9|explorer@1|silver@99
+Leader 4:	-61.93	e2-d2-p3-platinum@99|laboratory@10|explorer@1|gold@99|lookout@1|laboratory@2|silver@99
+
+Tournament
+player	0	1	2	3	4
+0	2.12	5.68	-0.32	83.84	84.52
+1	-6.26	1.1	-4.86	79.92	84.4
+2	-1.66	1	-1.2	78.4	80.14
+3	-83.24	-81.36	-77.9	-1	-1.72
+4	-85.1	-83.18	-80.44	1	-0.28

@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	loan,lookout,mining village,quarry,throne room,council room,counting house,upgrade,venture,hoard@34Split@NoProsperity
+
+Leaders:	5
+Leader 0:	4.995	e4-d5-p8-hoard@1|council room@1|gold@99|venture@5|silver@99
+Leader 1:	1.865	e3-d5-p8-hoard@1|council room@1|gold@99|venture@2|silver@4|mining village@3|quarry@1|silver@99
+Leader 2:	-0.565	e3-d5-p8-hoard@1|council room@1|gold@99|venture@2|silver@4|quarry@1|mining village@3|silver@99
+Leader 3:	-2.6	e4-d5-p8-hoard@1|council room@1|gold@99|council room@1|venture@7|silver@99
+Leader 4:	-5.18	e4-d5-p8-hoard@2|council room@1|gold@99|council room@1|venture@5|silver@1|mining village@1|silver@99
+
+Tournament
+player	0	1	2	3	4
+0	2.34	-0.04	6.5	5.84	7.68
+1	-2.98	-1.64	3.76	2.92	3.76
+2	-4.2	-3.92	-0.26	0.06	5.8
+3	-6.24	-3.98	-1.72	0.5	1.54
+4	-6.14	-6.72	-2.58	-5.28	3.78

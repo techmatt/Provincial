@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	great hall,shanty town,workshop,coppersmith,militia,salvager,city,tribute,adventurer,grand market@34Split@Prosperity
+
+Leaders:	5
+Leader 0:	42.775	e1-d3-p5-platinum@99|city@10|grand market@1|gold@99|tribute@2|city@7|militia@3|silver@1|shanty town@8|silver@99
+Leader 1:	39.205	e1-d4-p4-platinum@99|city@10|grand market@2|gold@99|city@1|militia@3|silver@1|shanty town@10|silver@99
+Leader 2:	37.32	e1-d2-p5-platinum@99|city@10|gold@99|tribute@2|city@7|militia@3|silver@1|shanty town@8|silver@99
+Leader 3:	-57.035	e3-d4-p6-platinum@99|gold@99|tribute@2|city@2|coppersmith@1|city@10|silver@99
+Leader 4:	-60.66	e2-d3-p6-platinum@99|gold@99|tribute@10|coppersmith@1|silver@99
+
+Tournament
+player	0	1	2	3	4
+0	-0.12	5.84	1.36	80.16	83.74
+1	-1.76	0.74	-5.04	80.22	83.4
+2	0.28	2.9	0	71.82	74.28
+3	-79.82	-80.08	-70.22	0.52	1.98
+4	-83.28	-84.54	-73.9	-0.92	-0.96

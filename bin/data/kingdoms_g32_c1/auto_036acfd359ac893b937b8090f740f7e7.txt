@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	chapel,moat,swindler,coppersmith,ironworks,duke,tactician,treasury,upgrade,peddler@34Split@NoProsperity
+
+Leaders:	5
+Leader 0:	6.21	e2-d5-p8-gold@99|upgrade@1|treasury@10|peddler@1|swindler@2|silver@99
+Leader 1:	2.985	e2-d5-p8-gold@99|upgrade@1|treasury@10|tactician@1|swindler@2|silver@99|chapel@2
+Leader 2:	6.075	e2-d4-p8-gold@99|treasury@10|peddler@1|swindler@2|silver@99
+Leader 3:	-7.175	e2-d4-p8-tactician@1|gold@99|peddler@2|coppersmith@2|peddler@1|silver@99
+Leader 4:	-6.015	e2-d4-p8-tactician@1|gold@99|peddler@7|coppersmith@2|treasury@1|silver@99
+
+Tournament
+player	0	1	2	3	4
+0	2.52	0.94	9.3	7.88	6.72
+1	-3.82	-1.3	8.94	3.78	3.04
+2	-10.82	-3.88	-0.48	22.02	16.98
+3	-7.28	-3.78	-15.86	2.88	-1.78
+4	-4.26	-2.6	-16.3	-0.9	0.04

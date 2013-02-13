@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	lighthouse,moat,fishing village,trade route,militia,smithy,duke,merchant ship,tactician,grand market@34Split@NoProsperity
+
+Leaders:	5
+Leader 0:	2.29	e2-d5-p8-gold@99|merchant ship@10|militia@1|tactician@2|fishing village@3|smithy@1|silver@99|lighthouse@1
+Leader 1:	4.19	e2-d5-p8-gold@1|merchant ship@3|gold@99|militia@1|duke@8|fishing village@3|smithy@2|silver@99|lighthouse@1
+Leader 2:	0.68	e2-d4-p8-gold@99|merchant ship@10|smithy@1|fishing village@3|smithy@4|silver@99|lighthouse@3
+Leader 3:	-3.38	e2-d5-p8-gold@99|merchant ship@10|militia@1|tactician@2|fishing village@3|moat@1|silver@99|moat@3
+Leader 4:	-5.45	e2-d4-p8-gold@99|smithy@1|merchant ship@10|fishing village@3|moat@1|merchant ship@9|silver@99
+
+Tournament
+player	0	1	2	3	4
+0	-1.94	-2.1	0.34	5.02	5.9
+1	0.62	1.98	1.78	7.78	6.58
+2	-3.08	-4.62	0.32	4.96	5.46
+3	-5.86	-6.1	-4.1	0.12	2.54
+4	-9.86	-7.34	-6.02	1.42	-0.94

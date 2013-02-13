@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	moat,ambassador,conspirator,quarry,bazaar,market,torturer,tribute,witch,peddler@34Split@NoProsperity
+
+Leaders:	5
+Leader 0:	-1.28	e2-d5-p8-market@6|bazaar@2|gold@99|witch@10|quarry@1|ambassador@2|peddler@10|silver@99|peddler@1
+Leader 1:	1.235	e3-d5-p8-market@6|gold@99|peddler@10|quarry@1|ambassador@2|torturer@10|silver@99|peddler@10
+Leader 2:	2.945	e2-d4-p8-market@10|bazaar@2|gold@99|torturer@10|quarry@1|ambassador@2|peddler@10|silver@99|peddler@1
+Leader 3:	-1.27	e2-d5-p8-market@10|bazaar@2|gold@99|torturer@1|quarry@1|ambassador@2|peddler@10|silver@99|moat@1
+Leader 4:	-1.855	e4-d5-p8-market@6|bazaar@1|gold@99|peddler@10|quarry@1|peddler@1|ambassador@2|peddler@10|silver@99|peddler@10
+
+Tournament
+player	0	1	2	3	4
+0	-0.48	-1.98	-4	-1.28	2.14
+1	1.08	0.18	0.08	1.04	2.74
+2	2.1	1.4	0.64	5.16	3.12
+3	-1.16	0.62	-3.8	1.24	-0.74
+4	-0.76	-2.9	-3.32	-0.44	-0.46

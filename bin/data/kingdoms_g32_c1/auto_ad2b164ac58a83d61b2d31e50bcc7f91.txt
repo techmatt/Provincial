@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	chancellor,lookout,bishop,bureaucrat,merchant ship,minion,tactician,wharf,grand market,hoard@34Split@Prosperity
+
+Leaders:	5
+Leader 0:	35.575	e3-d4-p5-platinum@99|wharf@2|hoard@1|wharf@1|gold@99|lookout@1|minion@2|silver@99
+Leader 1:	35.46	e3-d5-p5-platinum@99|wharf@2|hoard@1|wharf@1|gold@99|lookout@1|minion@1|silver@99
+Leader 2:	34.57	e3-d4-p5-platinum@99|wharf@2|hoard@1|wharf@1|gold@99|lookout@1|merchant ship@1|minion@1|merchant ship@10|silver@99
+Leader 3:	-50.885	e2-d3-p5-platinum@99|grand market@2|merchant ship@1|gold@99|lookout@1|minion@4|tactician@8|minion@2|silver@99
+Leader 4:	-54.18	e4-d4-p5-platinum@99|merchant ship@1|gold@99|lookout@1|merchant ship@4|tactician@1|wharf@1|silver@99
+
+Tournament
+player	0	1	2	3	4
+0	-0.3	0.68	0.72	69.64	71.26
+1	-2.64	-1.5	2.96	71.48	70.04
+2	-0.1	-2.74	1.72	70.9	70.22
+3	-72.78	-70.08	-67	-1.98	6.32
+4	-71.76	-70.4	-70.1	-4.46	1.66

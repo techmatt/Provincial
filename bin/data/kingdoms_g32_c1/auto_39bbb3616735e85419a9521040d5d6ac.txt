@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	steward,woodcutter,bishop,coppersmith,mining village,remodel,talisman,treasure map,tribute,goons@34Split@Prosperity
+
+Leaders:	5
+Leader 0:	15.165	e2-d3-p4-platinum@99|goons@2|gold@99|steward@1|mining village@7|silver@99
+Leader 1:	14.685	e2-d3-p4-platinum@99|goons@3|gold@99|mining village@9|steward@1|tribute@1|silver@99
+Leader 2:	9.08	e1-d3-p3-platinum@99|goons@3|gold@99|mining village@10|tribute@4|talisman@1|steward@1|silver@99
+Leader 3:	-15.92	e1-d2-p3-platinum@99|gold@3|tribute@1|gold@99|mining village@10|talisman@1|remodel@1|steward@1|silver@99
+Leader 4:	-23.21	e2-d3-p3-platinum@99|gold@99|mining village@1|mining village@8|steward@1|silver@99
+
+Tournament
+player	0	1	2	3	4
+0	-0.72	-5.34	2.78	29.02	34.2
+1	6.1	-2.92	10.08	23.02	19.54
+2	-1.48	-8.76	-0.78	23.76	22.8
+3	-31.3	-24.28	-22.18	-1.84	14.08
+4	-36.8	-21.9	-19.82	-14.32	1.52

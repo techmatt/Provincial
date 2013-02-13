@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	swindler,watchtower,conspirator,gardens,moneylender,spy,counting house,explorer,library,trading post@25Split@NoProsperity
+
+Leaders:	5
+Leader 0:	3.94	e3-d4-p8-gold@99|trading post@1|library@1|explorer@1|silver@99
+Leader 1:	2.215	e2-d4-p8-gold@99|trading post@1|library@2|silver@99
+Leader 2:	-0.25	e2-d4-p8-gold@99|trading post@1|library@1|explorer@1|spy@1|library@1|silver@99
+Leader 3:	-1.835	e1-d5-p8-gold@99|trading post@1|library@10|silver@5|watchtower@1|conspirator@1|silver@99
+Leader 4:	-5.26	e0-d4-p8-gold@99|trading post@1|library@10|silver@5|conspirator@1|silver@99
+
+Tournament
+player	0	1	2	3	4
+0	-0.34	0.72	3.16	4.76	7.12
+1	-1.4	0.56	2.34	3.34	4.58
+2	-1.62	-4.24	0.36	2.08	2.78
+3	-2.7	-3.16	-2.62	1.14	1.14
+4	-5.18	-7.94	-4.18	-3.74	0.46

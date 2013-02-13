@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	fishing village,smugglers,warehouse,coppersmith,sea hag,bazaar,merchant ship,rabble,wharf,bank@25Split@NoProsperity
+
+Leaders:	5
+Leader 0:	39.295	e3-d4-p8-gold@1|bank@1|gold@99|sea hag@1|wharf@7|fishing village@3|warehouse@2|silver@99
+Leader 1:	36.405	e2-d4-p8-gold@99|sea hag@1|wharf@7|fishing village@3|warehouse@2|silver@99
+Leader 2:	32.18	e2-d3-p8-wharf@4|bazaar@1|gold@99|sea hag@1|wharf@5|fishing village@3|warehouse@3|rabble@1|silver@99
+Leader 3:	-52.38	e3-d4-p8-gold@99|merchant ship@5|warehouse@1|fishing village@2|silver@99
+Leader 4:	-54.7	e4-d4-p8-merchant ship@1|gold@99|merchant ship@4|warehouse@1|merchant ship@1|bazaar@1|rabble@2|silver@99
+
+Tournament
+player	0	1	2	3	4
+0	0.1	4.16	8.46	69.38	75.18
+1	-5.3	-0.94	4.46	71.2	75.26
+2	-8.14	-2.48	1.32	70.22	69.12
+3	-70.72	-71.82	-68.32	-0.28	1.34
+4	-74.12	-74.12	-68.98	-1.58	2.14

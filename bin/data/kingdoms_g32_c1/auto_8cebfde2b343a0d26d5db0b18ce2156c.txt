@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	pawn,steward,gardens,island,scout,worker's village,explorer,royal seal,torturer,hoard@34Split@NoProsperity
+
+Leaders:	5
+Leader 0:	29.94	e4-d4-p8-torturer@1|hoard@1|gold@99|torturer@3|island@1|worker's village@3|silver@99
+Leader 1:	27.01	e2-d5-p8-torturer@1|hoard@2|gold@99|steward@1|torturer@2|worker's village@1|island@1|silver@99
+Leader 2:	21.915	e2-d5-p8-hoard@1|torturer@1|gold@99|torturer@6|island@1|silver@99|pawn@10
+Leader 3:	-40.16	e3-d6-p8-hoard@10|royal seal@1|gold@99|island@5|silver@1|pawn@1|torturer@4|silver@99
+Leader 4:	-40.225	e3-d6-p8-hoard@3|royal seal@1|gold@99|island@3|silver@1|pawn@1|gardens@5|silver@99|pawn@1
+
+Tournament
+player	0	1	2	3	4
+0	0	3.06	5.68	54.7	56.32
+1	0.58	0.06	2.56	53.54	51.36
+2	-7.98	-4.12	-1.44	51.6	48.16
+3	-56.3	-55.44	-52.64	0.44	3.74
+4	-55.2	-52.6	-51.16	-1.94	-1

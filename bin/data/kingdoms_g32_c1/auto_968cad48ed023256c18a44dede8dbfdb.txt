@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	caravan,remodel,spy,talisman,treasure map,bazaar,counting house,festival,treasury,venture@34Split@NoProsperity
+
+Leaders:	5
+Leader 0:	-0.035	e2-d3-p8-gold@11|treasury@1|gold@99|bazaar@2|remodel@1|caravan@5|festival@1|silver@99
+Leader 1:	2.39	e3-d3-p8-gold@11|treasury@1|gold@99|remodel@1|venture@4|silver@1|venture@7|caravan@5|silver@99
+Leader 2:	1.15	e3-d3-p8-gold@99|remodel@1|venture@10|silver@1|caravan@5|venture@3|silver@99
+Leader 3:	0.285	e3-d4-p8-gold@99|venture@7|silver@1|bazaar@5|caravan@6|silver@99
+Leader 4:	-1.355	e2-d2-p8-gold@11|treasury@10|gold@99|bazaar@1|remodel@1|caravan@6|festival@1|silver@99
+
+Tournament
+player	0	1	2	3	4
+0	0.58	-2.2	0.56	1.44	0.06
+1	2.22	-1.08	1.6	4.78	0.96
+2	1.14	1.02	-0.14	1.18	1.26
+3	2.84	-0.56	0.06	-1.8	-1.2
+4	-1.7	-3.22	-2.26	1.76	0.9

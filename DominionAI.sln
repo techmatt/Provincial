@@ -1,0 +1,85 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DominionApp", "DominionApp\DominionApp.csproj", "{B3DDFBDE-7EAA-4903-8084-9A105F773BEE}"
+	ProjectSection(ProjectDependencies) = postProject
+		{A1FD2443-4B10-42D8-AEE2-3444225A8D1C} = {A1FD2443-4B10-42D8-AEE2-3444225A8D1C}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DominionDLL", "DominionDLL\DominionDLL.vcxproj", "{A1FD2443-4B10-42D8-AEE2-3444225A8D1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestingGrounds", "TestingGrounds\TestingGrounds.csproj", "{4633759E-0685-4DF0-A3C7-0747C9847350}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|Win32 = Debug|Win32
+		Debug|x86 = Debug|x86
+		MakeTestingGrounds|Any CPU = MakeTestingGrounds|Any CPU
+		MakeTestingGrounds|Mixed Platforms = MakeTestingGrounds|Mixed Platforms
+		MakeTestingGrounds|Win32 = MakeTestingGrounds|Win32
+		MakeTestingGrounds|x86 = MakeTestingGrounds|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|Win32 = Release|Win32
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3DDFBDE-7EAA-4903-8084-9A105F773BEE}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{B3DDFBDE-7EAA-4903-8084-9A105F773BEE}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{B3DDFBDE-7EAA-4903-8084-9A105F773BEE}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{B3DDFBDE-7EAA-4903-8084-9A105F773BEE}.Debug|Win32.ActiveCfg = Debug|x86
+		{B3DDFBDE-7EAA-4903-8084-9A105F773BEE}.Debug|x86.ActiveCfg = Debug|x86
+		{B3DDFBDE-7EAA-4903-8084-9A105F773BEE}.Debug|x86.Build.0 = Debug|x86
+		{B3DDFBDE-7EAA-4903-8084-9A105F773BEE}.MakeTestingGrounds|Any CPU.ActiveCfg = Release|x86
+		{B3DDFBDE-7EAA-4903-8084-9A105F773BEE}.MakeTestingGrounds|Mixed Platforms.ActiveCfg = Release|x86
+		{B3DDFBDE-7EAA-4903-8084-9A105F773BEE}.MakeTestingGrounds|Mixed Platforms.Build.0 = Release|x86
+		{B3DDFBDE-7EAA-4903-8084-9A105F773BEE}.MakeTestingGrounds|Win32.ActiveCfg = Release|x86
+		{B3DDFBDE-7EAA-4903-8084-9A105F773BEE}.MakeTestingGrounds|x86.ActiveCfg = Release|x86
+		{B3DDFBDE-7EAA-4903-8084-9A105F773BEE}.MakeTestingGrounds|x86.Build.0 = Release|x86
+		{B3DDFBDE-7EAA-4903-8084-9A105F773BEE}.Release|Any CPU.ActiveCfg = Release|x86
+		{B3DDFBDE-7EAA-4903-8084-9A105F773BEE}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{B3DDFBDE-7EAA-4903-8084-9A105F773BEE}.Release|Mixed Platforms.Build.0 = Release|x86
+		{B3DDFBDE-7EAA-4903-8084-9A105F773BEE}.Release|Win32.ActiveCfg = Release|x86
+		{B3DDFBDE-7EAA-4903-8084-9A105F773BEE}.Release|x86.ActiveCfg = Release|x86
+		{B3DDFBDE-7EAA-4903-8084-9A105F773BEE}.Release|x86.Build.0 = Release|x86
+		{A1FD2443-4B10-42D8-AEE2-3444225A8D1C}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{A1FD2443-4B10-42D8-AEE2-3444225A8D1C}.Debug|Mixed Platforms.ActiveCfg = Debug|Win32
+		{A1FD2443-4B10-42D8-AEE2-3444225A8D1C}.Debug|Mixed Platforms.Build.0 = Debug|Win32
+		{A1FD2443-4B10-42D8-AEE2-3444225A8D1C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A1FD2443-4B10-42D8-AEE2-3444225A8D1C}.Debug|Win32.Build.0 = Debug|Win32
+		{A1FD2443-4B10-42D8-AEE2-3444225A8D1C}.Debug|x86.ActiveCfg = Debug|Win32
+		{A1FD2443-4B10-42D8-AEE2-3444225A8D1C}.MakeTestingGrounds|Any CPU.ActiveCfg = Release|Win32
+		{A1FD2443-4B10-42D8-AEE2-3444225A8D1C}.MakeTestingGrounds|Mixed Platforms.ActiveCfg = DominionExecutable|Win32
+		{A1FD2443-4B10-42D8-AEE2-3444225A8D1C}.MakeTestingGrounds|Mixed Platforms.Build.0 = DominionExecutable|Win32
+		{A1FD2443-4B10-42D8-AEE2-3444225A8D1C}.MakeTestingGrounds|Win32.ActiveCfg = Release|Win32
+		{A1FD2443-4B10-42D8-AEE2-3444225A8D1C}.MakeTestingGrounds|Win32.Build.0 = Release|Win32
+		{A1FD2443-4B10-42D8-AEE2-3444225A8D1C}.MakeTestingGrounds|x86.ActiveCfg = Release|Win32
+		{A1FD2443-4B10-42D8-AEE2-3444225A8D1C}.Release|Any CPU.ActiveCfg = Release|Win32
+		{A1FD2443-4B10-42D8-AEE2-3444225A8D1C}.Release|Mixed Platforms.ActiveCfg = Release|Win32
+		{A1FD2443-4B10-42D8-AEE2-3444225A8D1C}.Release|Mixed Platforms.Build.0 = Release|Win32
+		{A1FD2443-4B10-42D8-AEE2-3444225A8D1C}.Release|Win32.ActiveCfg = Release|Win32
+		{A1FD2443-4B10-42D8-AEE2-3444225A8D1C}.Release|Win32.Build.0 = Release|Win32
+		{A1FD2443-4B10-42D8-AEE2-3444225A8D1C}.Release|x86.ActiveCfg = Release|Win32
+		{4633759E-0685-4DF0-A3C7-0747C9847350}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4633759E-0685-4DF0-A3C7-0747C9847350}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4633759E-0685-4DF0-A3C7-0747C9847350}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{4633759E-0685-4DF0-A3C7-0747C9847350}.Debug|Win32.ActiveCfg = Debug|Any CPU
+		{4633759E-0685-4DF0-A3C7-0747C9847350}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{4633759E-0685-4DF0-A3C7-0747C9847350}.MakeTestingGrounds|Any CPU.ActiveCfg = Release|Any CPU
+		{4633759E-0685-4DF0-A3C7-0747C9847350}.MakeTestingGrounds|Any CPU.Build.0 = Release|Any CPU
+		{4633759E-0685-4DF0-A3C7-0747C9847350}.MakeTestingGrounds|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{4633759E-0685-4DF0-A3C7-0747C9847350}.MakeTestingGrounds|Mixed Platforms.Build.0 = Release|Any CPU
+		{4633759E-0685-4DF0-A3C7-0747C9847350}.MakeTestingGrounds|Win32.ActiveCfg = Release|Any CPU
+		{4633759E-0685-4DF0-A3C7-0747C9847350}.MakeTestingGrounds|x86.ActiveCfg = Release|Any CPU
+		{4633759E-0685-4DF0-A3C7-0747C9847350}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4633759E-0685-4DF0-A3C7-0747C9847350}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4633759E-0685-4DF0-A3C7-0747C9847350}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{4633759E-0685-4DF0-A3C7-0747C9847350}.Release|Win32.ActiveCfg = Release|Any CPU
+		{4633759E-0685-4DF0-A3C7-0747C9847350}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

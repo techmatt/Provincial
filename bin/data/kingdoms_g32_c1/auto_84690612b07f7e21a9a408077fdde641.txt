@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	chancellor,smugglers,trade route,warehouse,bureaucrat,coppersmith,ironworks,monument,throne room,upgrade@34Split@NoProsperity
+
+Leaders:	5
+Leader 0:	10.93	e2-d4-p8-gold@99|monument@1|silver@1|monument@1|warehouse@1|silver@99
+Leader 1:	4.49	e2-d5-p8-gold@99|monument@1|upgrade@1|silver@1|monument@1|warehouse@1|silver@99
+Leader 2:	-4.365	e2-d4-p8-gold@12|upgrade@1|gold@99|monument@3|silver@99
+Leader 3:	-6.02	e2-d5-p8-gold@99|monument@1|silver@1|coppersmith@1|warehouse@1|silver@99
+Leader 4:	-4.76	e2-d5-p8-gold@99|monument@2|silver@4|monument@1|silver@99
+
+Tournament
+player	0	1	2	3	4
+0	-0.54	4.78	11.28	13.44	14.22
+1	-5.28	-0.8	7.16	6.08	10
+2	-14.36	-4.12	-0.68	0.96	0.06
+3	-15.2	-6.64	-0.62	0.76	-1.62
+4	-14.18	-4.96	0.18	-0.08	-0.6

@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	trade route,woodcutter,workshop,bridge,militia,mining village,quarry,festival,tactician,tribute@34Split@NoProsperity
+
+Leaders:	5
+Leader 0:	11.88	e2-d5-p8-gold@3|festival@1|gold@99|tactician@1|militia@2|tribute@3|silver@99
+Leader 1:	10.385	e2-d4-p8-gold@99|tactician@1|militia@1|festival@1|bridge@1|silver@99
+Leader 2:	8.85	e2-d5-p8-gold@99|tactician@1|militia@1|bridge@1|silver@99
+Leader 3:	-14.84	e3-d4-p8-gold@99|tribute@2|festival@8|silver@99
+Leader 4:	-16.345	e4-d4-p8-gold@99|tribute@10|silver@99
+
+Tournament
+player	0	1	2	3	4
+0	0.74	-0.42	-2.32	24.3	25.96
+1	1.98	0.32	-1.7	18.94	22.32
+2	2.68	0.34	-0.06	14.38	18
+3	-26.72	-19.46	-15.64	-0.58	2.46
+4	-26.72	-22.24	-16.42	0	-1.24

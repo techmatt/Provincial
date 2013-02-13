@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	moat,woodcutter,ironworks,council room,explorer,festival,merchant ship,saboteur,trading post,wharf@34Split@NoProsperity
+
+Leaders:	5
+Leader 0:	17.21	e2-d4-p8-wharf@1|gold@99|wharf@2|silver@99
+Leader 1:	16.025	e2-d4-p8-gold@1|wharf@1|gold@99|wharf@1|merchant ship@1|festival@2|silver@99
+Leader 2:	14.275	e2-d4-p8-wharf@1|gold@99|wharf@2|silver@99|moat@1
+Leader 3:	-23.145	e2-d5-p8-gold@99|merchant ship@2|explorer@1|festival@1|silver@99|moat@10
+Leader 4:	-22.825	e2-d5-p8-gold@2|merchant ship@1|gold@99|merchant ship@4|explorer@1|festival@1|explorer@1|silver@99|moat@10
+
+Tournament
+player	0	1	2	3	4
+0	-1.74	3.22	2.28	32.68	30.66
+1	0.68	-0.64	1.32	31.36	30.74
+2	-2.68	-0.68	2.16	31.16	29.3
+3	-30.82	-32.2	-27.1	-1.26	-2.46
+4	-29.22	-32.06	-30.82	0.8	0.18

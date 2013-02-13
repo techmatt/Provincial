@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	cellar,great hall,loan,smugglers,bishop,gardens,salvager,tactician,torturer,adventurer@34Split@NoProsperity
+
+Leaders:	5
+Leader 0:	29.34	e2-d4-p8-torturer@1|gold@99|torturer@1|tactician@1|silver@99|cellar@2
+Leader 1:	26.15	e1-d5-p8-torturer@1|gold@99|tactician@1|bishop@1|silver@99|cellar@2
+Leader 2:	29.475	e1-d4-p8-torturer@1|gold@99|torturer@1|tactician@1|silver@99|cellar@2
+Leader 3:	-36.855	e1-d4-p8-gold@99|bishop@1|silver@99|cellar@2
+Leader 4:	-47.845	e3-d6-p8-gold@99|silver@1|smugglers@1|silver@9|gardens@8|silver@99|cellar@1
+
+Tournament
+player	0	1	2	3	4
+0	2.54	5.78	2.9	62.18	46.5
+1	-4.82	-2.38	-6.36	54.08	61.7
+2	0.1	5.9	-0.1	64.38	47.52
+3	-63.6	-57.02	-64.18	-1.76	37.38
+4	-45.62	-62.28	-47.82	-35.66	-1.8

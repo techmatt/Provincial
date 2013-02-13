@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	cellar,pearl diver,warehouse,workshop,baron,militia,monument,explorer,mine,torturer@34Split@Prosperity
+
+Leaders:	5
+Leader 0:	33.595	e2-d5-p6-platinum@99|torturer@1|gold@4|torturer@1|gold@99|torturer@2|militia@1|silver@99|pearl diver@1
+Leader 1:	33.37	e2-d5-p6-platinum@99|torturer@1|gold@99|torturer@2|militia@1|torturer@1|silver@99|cellar@1
+Leader 2:	32.95	e2-d4-p6-platinum@99|torturer@1|gold@2|torturer@1|gold@99|torturer@2|militia@1|silver@99|cellar@1
+Leader 3:	-48.805	e3-d5-p7-platinum@99|gold@99|mine@2|warehouse@1|silver@99
+Leader 4:	-50.78	e2-d6-p6-platinum@99|gold@99|mine@2|warehouse@1|silver@99|cellar@10
+
+Tournament
+player	0	1	2	3	4
+0	-0.96	2.66	-0.34	65.48	66.58
+1	-1.24	-0.24	-0.74	67.2	68.26
+2	-0.64	-2.14	-0.44	66.4	68.18
+3	-65.96	-63.74	-67.56	3.54	2.04
+4	-66.68	-67.06	-68.06	-1.32	2.84

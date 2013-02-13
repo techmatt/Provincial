@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	chapel,shanty town,village,woodcutter,sea hag,talisman,harem,nobles,expand,king's court@34Split@NoProsperity
+
+Leaders:	5
+Leader 0:	33.08	e1-d1-p8-nobles@6|harem@8|gold@99|chapel@1|sea hag@1|village@2|silver@99
+Leader 1:	28.735	e0-d2-p8-nobles@6|gold@99|chapel@1|sea hag@1|village@2|silver@99
+Leader 2:	6.505	e2-d3-p8-harem@7|gold@99|chapel@1|sea hag@1|village@1|silver@99
+Leader 3:	-29.515	e1-d1-p8-harem@7|nobles@5|gold@99|chapel@1|silver@99|chapel@1
+Leader 4:	-40.25	e1-d2-p8-harem@8|gold@99|chapel@1|silver@99|chapel@1
+
+Tournament
+player	0	1	2	3	4
+0	-1.78	0.34	19.12	56.28	56.58
+1	-5	0.4	18.04	50.74	51.16
+2	-20.64	-16.2	-1.12	25.62	37.24
+3	-55.9	-52.52	-21.76	-0.22	12.12
+4	-58.36	-51.94	-37.76	-12.94	-0.86

@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	cellar,fishing village,island,remodel,scout,worker's village,tactician,witch,grand market,harem@34Split@NoProsperity
+
+Leaders:	5
+Leader 0:	50.625	e3-d5-p8-witch@3|gold@99|tactician@1|fishing village@10|remodel@1|silver@99|cellar@10
+Leader 1:	50.06	e2-d5-p8-witch@3|gold@99|tactician@1|fishing village@10|island@2|scout@10|silver@99|cellar@10
+Leader 2:	44.77	e3-d5-p8-witch@3|gold@99|tactician@1|fishing village@10|silver@1|fishing village@1|silver@99|cellar@1
+Leader 3:	-71	e2-d4-p8-gold@99|island@2|silver@99
+Leader 4:	-75.635	e2-d4-p8-grand market@1|gold@99|island@7|silver@99
+
+Tournament
+player	0	1	2	3	4
+0	3.58	0.8	6.32	97.04	98.34
+1	0.54	-1.04	4.1	97.34	98.26
+2	-9.16	-6.54	-0.28	96.86	97.92
+3	-97.34	-96.48	-97.02	0.42	6.84
+4	-97.96	-97.54	-98.1	-8.94	-0.7

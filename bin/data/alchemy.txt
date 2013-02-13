@@ -1,0 +1,13 @@
+name	cost	pcost	supply	type	actions	cards	buys	money	v tokens	v points	treasure
+transmute	0	0	10	action	0	0	0	0	0	0	0
+vineyard	0	1	10	victory	0	0	0	0	0	0	0
+apothecary	2	1	10	action	1	1	0	0	0	0	0
+herbalist	2	0	10	action	0	0	1	1	0	0	0
+scrying pool	2	1	10	action attack	1	0	0	0	0	0	0
+university	2	1	10	action	2	0	0	0	0	0	0
+alchemist	3	1	10	action	1	2	0	0	0	0	0
+familiar	3	1	10	action attack	1	1	0	0	0	0	0
+philosopher's stone	3	1	10	treasure	0	0	0	0	0	0	0
+golem	4	1	10	action	0	0	0	0	0	0	0
+apprentice	5	0	10	action	1	0	0	0	0	0	0
+possession	6	1	10	action	0	0	0	0	0	0	0

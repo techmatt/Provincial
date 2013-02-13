@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	chapel,lighthouse,swindler,gardens,bazaar,rabble,treasury,adventurer,goons,expand@34Split@Prosperity
+
+Leaders:	5
+Leader 0:	28.765	e0-d2-p2-platinum@99|goons@1|bazaar@3|rabble@2|gold@99|treasury@1|chapel@1|bazaar@9|silver@99|lighthouse@8
+Leader 1:	16.245	e1-d2-p2-platinum@99|goons@1|bazaar@2|rabble@2|gold@99|treasury@2|chapel@1|bazaar@10|silver@99|lighthouse@8
+Leader 2:	8.035	e1-d2-p2-platinum@99|bazaar@2|rabble@1|goons@2|gold@99|bazaar@1|chapel@1|silver@1|bazaar@1|silver@99
+Leader 3:	-26.69	e3-d2-p4-platinum@99|gold@1|adventurer@1|gold@99|bazaar@4|chapel@1|rabble@2|silver@99
+Leader 4:	-26.745	e3-d3-p4-platinum@99|treasury@1|adventurer@1|gold@99|bazaar@3|chapel@1|rabble@9|silver@99|lighthouse@4
+
+Tournament
+player	0	1	2	3	4
+0	-1.94	13.36	22.06	36.54	43.1
+1	-13.26	-1.42	9.56	35.34	33.34
+2	-22.66	-9.64	1.02	30.24	34.2
+3	-38.1	-36.12	-31.04	-1.52	-1.5
+4	-41.02	-34.26	-34.62	2.92	0.6

@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	cellar,pearl diver,ambassador,steward,watchtower,remodel,vault,harem,hoard,peddler@34Split@NoProsperity
+
+Leaders:	5
+Leader 0:	5.855	e2-d5-p8-hoard@1|harem@8|gold@99|silver@1|vault@10|silver@99
+Leader 1:	1.555	e3-d5-p8-hoard@1|harem@8|gold@99|silver@1|vault@6|silver@3|cellar@1|silver@99|cellar@6
+Leader 2:	-0.32	e2-d5-p8-hoard@1|harem@8|gold@99|vault@10|silver@3|watchtower@1|silver@99
+Leader 3:	-3.19	e2-d5-p8-hoard@1|harem@6|gold@99|silver@2|vault@1|peddler@7|silver@3|remodel@1|silver@99
+Leader 4:	-0.905	e2-d5-p8-hoard@1|harem@8|gold@99|silver@1|vault@2|silver@3|steward@1|silver@99
+
+Tournament
+player	0	1	2	3	4
+0	-1.1	4.86	4.56	7.56	6.44
+1	-2.7	0.26	2.7	5.56	0.66
+2	-2.08	-1.94	-0.58	2.66	0.08
+3	-7.18	-3.48	-3.42	1.28	1.32
+4	-2.88	-2.62	-0.7	2.58	1.28

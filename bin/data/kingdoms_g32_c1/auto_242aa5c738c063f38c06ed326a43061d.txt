@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	chapel,chancellor,smugglers,mining village,spy,council room,saboteur,tribute,goons,harem@34Split@NoProsperity
+
+Leaders:	5
+Leader 0:	22.26	e1-d2-p8-goons@2|harem@8|gold@99|mining village@1|chapel@1|silver@99
+Leader 1:	21.835	e2-d3-p8-goons@2|harem@7|gold@99|spy@1|chapel@1|silver@99
+Leader 2:	14.18	e1-d3-p8-goons@2|harem@8|gold@99|chapel@1|silver@99
+Leader 3:	-28.23	e2-d3-p8-harem@8|gold@99|council room@1|silver@2|council room@1|silver@99
+Leader 4:	-30.025	e2-d4-p8-gold@99|council room@2|silver@99
+
+Tournament
+player	0	1	2	3	4
+0	-2.18	3.24	7.16	45.1	33.54
+1	-4.26	0.16	8.6	44.32	38.68
+2	-7.84	-6.12	-1.02	38.96	31.72
+3	-41.88	-45.7	-40.94	0.12	15.6
+4	-34	-40.04	-31.08	-14.98	1.02

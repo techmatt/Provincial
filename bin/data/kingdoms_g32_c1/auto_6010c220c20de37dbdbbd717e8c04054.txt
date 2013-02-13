@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	moat,swindler,treasure map,bazaar,ghost ship,mountebank,venture,witch,harem,peddler@34Split@Prosperity
+
+Leaders:	5
+Leader 0:	0.115	e3-d4-p6-platinum@99|witch@1|gold@99|witch@1|venture@1|moat@1|bazaar@3|ghost ship@1|silver@99|moat@1
+Leader 1:	2.66	e4-d5-p6-platinum@99|witch@1|gold@99|witch@1|moat@1|venture@2|ghost ship@7|silver@99|moat@1
+Leader 2:	-0.375	e3-d4-p6-platinum@99|mountebank@1|gold@99|silver@2|moat@1|venture@8|moat@1|silver@99|peddler@2
+Leader 3:	1.09	e5-d5-p6-platinum@99|witch@1|gold@99|witch@1|moat@1|venture@2|ghost ship@7|silver@99|moat@1
+Leader 4:	-6.06	e3-d5-p6-platinum@99|mountebank@1|gold@99|ghost ship@1|venture@8|moat@1|silver@99|moat@9
+
+Tournament
+player	0	1	2	3	4
+0	-1.28	-0.78	-1.54	-1.56	4.34
+1	3.26	0.56	-2.48	2.44	7.42
+2	1.26	-2.52	0.32	-0.2	-0.04
+3	2.18	-4.44	-0.12	-2	6.74
+4	-6.22	-10.2	-0.56	-7.26	3.42

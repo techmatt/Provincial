@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	moat,pearl diver,lookout,shanty town,watchtower,bureaucrat,merchant ship,mint,mountebank,venture@34Split@Prosperity
+
+Leaders:	5
+Leader 0:	16.755	e2-d2-p4-platinum@99|mountebank@1|gold@99|venture@3|lookout@1|shanty town@3|watchtower@2|silver@99|moat@1
+Leader 1:	16.215	e2-d2-p4-platinum@99|mountebank@1|gold@99|venture@4|lookout@1|shanty town@3|watchtower@2|silver@99
+Leader 2:	15.78	e2-d2-p4-platinum@99|mountebank@1|gold@99|venture@4|lookout@1|shanty town@3|watchtower@2|silver@99|pearl diver@1
+Leader 3:	-23.445	e3-d3-p4-platinum@99|venture@7|gold@99|shanty town@1|lookout@1|shanty town@1|watchtower@1|silver@99
+Leader 4:	-24.525	e3-d3-p4-platinum@99|gold@99|venture@4|shanty town@1|lookout@1|shanty town@1|watchtower@1|silver@99|moat@1
+
+Tournament
+player	0	1	2	3	4
+0	-0.1	5.42	0.7	33.22	27.68
+1	-2.64	1.2	0.32	37.66	29.52
+2	-3.26	-1.08	1.06	36.12	31.34
+3	-32.6	-32.72	-35.26	0.76	6.8
+4	-27.4	-30.56	-31.72	-8.42	-0.4

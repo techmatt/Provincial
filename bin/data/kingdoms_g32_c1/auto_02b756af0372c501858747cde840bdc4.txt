@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	cellar,loan,lookout,steward,woodcutter,spy,ghost ship,torturer,grand market,king's court@34Split@NoProsperity
+
+Leaders:	5
+Leader 0:	8.02	e2-d4-p8-torturer@1|gold@99|torturer@2|ghost ship@1|silver@99
+Leader 1:	9.185	e2-d4-p8-torturer@1|gold@99|torturer@2|silver@99
+Leader 2:	4.485	e2-d4-p8-torturer@1|gold@99|torturer@4|silver@99|cellar@1
+Leader 3:	-11.735	e2-d3-p8-grand market@3|gold@99|steward@1|ghost ship@10|loan@1|silver@99
+Leader 4:	-10.655	e2-d4-p8-ghost ship@1|gold@99|ghost ship@10|silver@99
+
+Tournament
+player	0	1	2	3	4
+0	2.04	-1.8	1.54	24.4	7.94
+1	2.14	1.98	3.02	24.08	7.5
+2	-2.4	-4.02	1.46	21.54	2.82
+3	-25	-21.94	-21.14	-0.84	21.14
+4	-9.34	-4.6	-6.9	-21.78	-1.72

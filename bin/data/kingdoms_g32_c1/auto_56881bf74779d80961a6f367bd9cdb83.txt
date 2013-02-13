@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	trade route,wishing well,moneylender,smithy,city,duke,laboratory,tactician,harem,nobles@34Split@NoProsperity
+
+Leaders:	5
+Leader 0:	4.38	e1-d2-p8-harem@8|nobles@5|gold@99|laboratory@4|trade route@1|city@1|silver@99
+Leader 1:	4.315	e1-d2-p8-harem@8|nobles@5|gold@99|trade route@1|laboratory@6|wishing well@1|silver@99
+Leader 2:	-1.11	e1-d2-p8-harem@8|nobles@5|gold@99|trade route@1|laboratory@6|smithy@1|silver@99
+Leader 3:	-2.135	e0-d2-p8-harem@8|nobles@4|gold@99|laboratory@2|city@2|trade route@1|silver@1|city@10|silver@99
+Leader 4:	-5.13	e3-d3-p8-harem@8|laboratory@5|gold@99|duke@1|city@1|trade route@1|city@4|silver@99
+
+Tournament
+player	0	1	2	3	4
+0	-0.04	-0.22	3.68	6.76	7.3
+1	0.62	1.46	2.34	5	9.3
+2	-4.2	-4.62	-2.54	-0.36	4.74
+3	-6.28	-4.26	-0.12	-2.72	2.12
+4	-7.38	-8.54	-2.64	-1.96	1.2

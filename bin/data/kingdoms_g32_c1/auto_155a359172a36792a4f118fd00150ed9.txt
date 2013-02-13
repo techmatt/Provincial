@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	fishing village,moneylender,quarry,council room,counting house,market,minion,upgrade,vault,adventurer@34Split@NoProsperity
+
+Leaders:	5
+Leader 0:	2.685	e3-d5-p8-gold@7|adventurer@3|gold@99|vault@2|market@2|vault@1|silver@99
+Leader 1:	1.295	e3-d5-p8-gold@99|vault@1|market@1|minion@10|silver@99
+Leader 2:	1.22	e2-d5-p8-gold@99|vault@1|minion@10|silver@99
+Leader 3:	-1.56	e2-d4-p8-gold@99|vault@1|market@1|minion@9|silver@99
+Leader 4:	-4.27	e2-d5-p8-gold@99|vault@1|council room@1|silver@99
+
+Tournament
+player	0	1	2	3	4
+0	1.14	1.02	1.14	3.4	5.18
+1	-1.82	-0.98	-0.68	3.32	4.36
+2	-1.04	0.7	-0.68	3.5	1.72
+3	-3.46	-3.26	-0.06	-0.06	0.54
+4	-5.58	-4	-4.52	-2.98	-0.42

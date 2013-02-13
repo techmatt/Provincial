@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	chapel,steward,village,bureaucrat,gardens,ironworks,moneylender,mine,mint,hoard@34Split@NoProsperity
+
+Leaders:	5
+Leader 0:	16.95	e5-d7-p8-hoard@2|gold@99|bureaucrat@2|ironworks@1|gardens@8|silver@99
+Leader 1:	3.925	e5-d7-p8-hoard@1|gold@99|bureaucrat@2|ironworks@1|gardens@8|moneylender@1|silver@99
+Leader 2:	-4.02	e4-d7-p8-gold@99|bureaucrat@2|ironworks@1|gardens@8|silver@99
+Leader 3:	-4.295	e5-d7-p8-hoard@2|gold@99|bureaucrat@2|gardens@8|silver@99
+Leader 4:	-11.685	e4-d6-p8-gold@99|bureaucrat@2|ironworks@1|gardens@8|moneylender@1|silver@99
+
+Tournament
+player	0	1	2	3	4
+0	0.08	10.6	16.98	16.1	24.12
+1	-7.8	0.7	4.84	7.36	11.3
+2	-15.82	-6.98	-0.22	3.16	3.56
+3	-13.98	-7.22	-1.44	0.12	5.46
+4	-24.2	-12.32	-4.54	-5.68	-0.18

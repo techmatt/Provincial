@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	loan,shanty town,feast,quarry,smithy,merchant ship,mountebank,saboteur,venture,goons@34Split@NoProsperity
+
+Leaders:	5
+Leader 0:	17.885	e3-d5-p8-mountebank@1|goons@1|gold@99|mountebank@1|venture@10|silver@99
+Leader 1:	18.09	e3-d5-p8-mountebank@1|goons@1|gold@99|shanty town@1|venture@10|silver@99
+Leader 2:	12.29	e3-d5-p8-mountebank@1|goons@1|gold@99|smithy@1|venture@6|mountebank@1|silver@99
+Leader 3:	-22.46	e2-d4-p8-gold@99|venture@10|smithy@1|venture@1|silver@99
+Leader 4:	-26.74	e2-d4-p8-gold@99|venture@10|smithy@2|merchant ship@1|feast@1|silver@99
+
+Tournament
+player	0	1	2	3	4
+0	-2.46	0.86	2.24	32.6	35.84
+1	0.36	1.92	3.04	31.36	37.6
+2	-1.46	-4.5	1.38	27.98	27.14
+3	-32.86	-35.6	-27.26	2.28	5.88
+4	-33.7	-38.08	-29.7	-5.48	-0.04

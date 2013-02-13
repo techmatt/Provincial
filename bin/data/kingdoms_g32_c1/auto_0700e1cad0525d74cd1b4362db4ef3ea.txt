@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	chapel,courtyard,woodcutter,island,militia,smithy,counting house,mountebank,witch,harem@34Split@NoProsperity
+
+Leaders:	5
+Leader 0:	14.225	e5-d6-p8-witch@1|harem@8|gold@99|witch@1|militia@1|silver@99|courtyard@10
+Leader 1:	9.8	e5-d6-p8-witch@1|gold@99|witch@1|militia@1|silver@99|courtyard@7
+Leader 2:	9.455	e5-d5-p8-witch@1|gold@99|witch@1|militia@1|silver@99
+Leader 3:	-17.5	e5-d6-p8-mountebank@1|harem@8|gold@99|mountebank@1|smithy@1|silver@99
+Leader 4:	-16.64	e5-d6-p8-mountebank@1|harem@8|gold@99|mountebank@1|smithy@1|silver@99|courtyard@10
+
+Tournament
+player	0	1	2	3	4
+0	-0.78	1.04	4.14	27.68	24.04
+1	-2.12	0.14	0.82	21.76	18.74
+2	-4.56	-1.6	-0.14	21.2	22.78
+3	-25.68	-20.82	-20.9	-0.8	-2.6
+4	-25.08	-20.74	-20.04	-0.7	0.2

@@ -1,0 +1,26 @@
+name	cost	pcost	supply	type	actions	cards	buys	money	v tokens	v points	treasure
+cellar	2	0	10	action	1	0	0	0	0	0	0
+chapel	2	0	10	action	0	0	0	0	0	0	0
+moat	2	0	10	action reaction	0	2	0	0	0	0	0
+chancellor	3	0	10	action	0	0	0	2	0	0	0
+village	3	0	10	action	2	1	0	0	0	0	0
+woodcutter	3	0	10	action	0	0	1	2	0	0	0
+workshop	3	0	10	action	0	0	0	0	0	0	0
+bureaucrat	4	0	10	action attack	0	0	0	0	0	0	0
+feast	4	0	10	action	0	0	0	0	0	0	0
+gardens	4	0	10	victory	0	0	0	0	0	0	0
+militia	4	0	10	action attack	0	0	0	2	0	0	0
+moneylender	4	0	10	action	0	0	0	0	0	0	0
+remodel	4	0	10	action	0	0	0	0	0	0	0
+smithy	4	0	10	action	0	3	0	0	0	0	0
+spy	4	0	10	action attack	1	1	0	0	0	0	0
+thief	4	0	10	action attack	0	0	0	0	0	0	0
+throne room	4	0	10	action	0	0	0	0	0	0	0
+council room	5	0	10	action	0	4	1	0	0	0	0
+festival	5	0	10	action	2	0	1	2	0	0	0
+laboratory	5	0	10	action	1	2	0	0	0	0	0
+library	5	0	10	action	0	0	0	0	0	0	0
+market	5	0	10	action	1	1	1	1	0	0	0
+mine	5	0	10	action	0	0	0	0	0	0	0
+witch	5	0	10	action attack	0	2	0	0	0	0	0
+adventurer	6	0	10	action	0	0	0	0	0	0	0

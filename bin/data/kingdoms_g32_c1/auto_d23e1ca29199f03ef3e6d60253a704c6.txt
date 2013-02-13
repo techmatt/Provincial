@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	loan,feast,throne room,treasure map,ghost ship,laboratory,mine,vault,adventurer,bank@34Split@NoProsperity
+
+Leaders:	5
+Leader 0:	26.93	e2-d4-p8-ghost ship@1|bank@3|gold@99|ghost ship@3|laboratory@2|silver@99
+Leader 1:	25.245	e2-d4-p8-ghost ship@1|bank@1|gold@99|ghost ship@4|silver@99
+Leader 2:	22.815	e2-d4-p8-ghost ship@1|bank@3|gold@99|ghost ship@4|laboratory@3|loan@1|silver@99
+Leader 3:	-36.78	e3-d5-p8-gold@99|vault@2|laboratory@3|silver@99
+Leader 4:	-37.475	e3-d5-p8-bank@1|gold@99|vault@2|laboratory@3|silver@99
+
+Tournament
+player	0	1	2	3	4
+0	-1.14	1.52	-1.32	54.18	53.34
+1	0.3	-0.36	-6.46	52.16	54.98
+2	4.84	3.86	0.32	39.74	42.82
+3	-55.28	-49.42	-40.14	-0.42	-2.28
+4	-55.46	-53.2	-44.04	2.8	3.74

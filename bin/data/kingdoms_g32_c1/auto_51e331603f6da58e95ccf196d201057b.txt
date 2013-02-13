@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	pawn,ambassador,fishing village,loan,watchtower,cutpurse,worker's village,explorer,library,goons@34Split@NoProsperity
+
+Leaders:	5
+Leader 0:	22.195	e2-d2-p8-library@1|goons@5|gold@99|library@1|loan@1|ambassador@1|fishing village@10|silver@99|pawn@3
+Leader 1:	18.765	e2-d2-p8-library@1|goons@5|gold@99|library@1|loan@1|ambassador@1|fishing village@9|silver@99
+Leader 2:	11.19	e2-d3-p8-library@1|goons@7|gold@99|library@2|fishing village@1|ambassador@1|fishing village@10|silver@99|pawn@3
+Leader 3:	-27.7	e3-d3-p8-library@2|gold@99|explorer@2|ambassador@1|fishing village@10|silver@99|pawn@10
+Leader 4:	-25.66	e2-d3-p8-library@2|gold@99|explorer@2|ambassador@1|fishing village@10|silver@99
+
+Tournament
+player	0	1	2	3	4
+0	-0.5	3.26	11.74	36.3	37.48
+1	-2.34	0.42	7.98	35.04	34.38
+2	-10.56	-8.88	0.98	34.02	30.18
+3	-37.56	-36.86	-33.54	0.54	-2.84
+4	-35.56	-35.28	-31.94	0.14	-0.14

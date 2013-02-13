@@ -1,0 +1,18 @@
+Leaderboard
+
+Kingdom cards:	cellar,chancellor,fishing village,trade route,warehouse,bureaucrat,feast,ironworks,trading post,hoard@34Split@NoProsperity
+
+Leaders:	5
+Leader 0:	1.9	e4-d6-p8-hoard@1|gold@99|chancellor@1|silver@1|warehouse@1|silver@99
+Leader 1:	2.67	e4-d6-p8-hoard@1|gold@99|ironworks@1|warehouse@1|silver@99
+Leader 2:	-1.365	e3-d5-p8-gold@99|ironworks@1|warehouse@1|silver@99
+Leader 3:	-1.505	e4-d6-p8-hoard@1|gold@99|bureaucrat@1|warehouse@1|silver@99
+Leader 4:	-1.765	e3-d6-p8-gold@99|bureaucrat@1|warehouse@1|silver@99
+
+Tournament
+player	0	1	2	3	4
+0	1.24	0.62	3.24	1.24	2.5
+1	1.56	1.12	0.9	4.86	3.36
+2	-4.56	-2.1	2.98	-1.58	2.78
+3	-1.64	-3.34	-1.68	1.14	0.64
+4	-2.42	-1.04	-2.42	-1.18	1.14
